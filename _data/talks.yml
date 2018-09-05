@@ -1,0 +1,444 @@
+#-
+#  speaker_id:
+#    - speaker-id
+#  tags:
+#    - javascript
+#    - tests
+#  title: Title here
+#  extract: >
+#    Abstract here
+
+list:
+  -
+    slot: "2"
+    speaker_id:
+      - chema-balsas
+    tags:
+      - enterprise
+      - component libraries
+      - clay
+      - lexicon
+    title: Creating an Enterprise Frontend Library in 2018
+    extract: >
+      React? Angular? Vue? It seems like today there's a new frontend library every single week. But how can the enterprise
+      world keep up with that reality? How can we build frontend libraries that are up to date with the latest technologies
+      while still making sure they are durable and ready for the enterprise world? In this talk, we'll present Clay, the
+      component library we built to implement the Lexicon Experience Language. We will share all the best practices from
+      years building frontend libraries and show the result of using new technologies such as Web Components today.
+  -
+    slot: "5"
+    speaker_id:
+      - yann-leflour
+    tags:
+      - chatbots
+    title: "Chatbots in JS: Overview and implementation"
+    extract: >
+      As was the word "cloud" a few years ago, "chatbot" is becoming one of the most trending topic in the tech industry.
+      But even if most have heard of it, few really know what hides behind this term. My first goal through this talk will
+      be to demistify the world of chatbots. Then, I will guide you through the implementation of a chatbot by sharing the
+      mistakes and pitfalls we came across while creating our own.
+  -
+    slot: "23"
+    speaker_id:
+      - fredrik-rubensson
+    tags:
+      - ipfs
+      - distributed web
+      - decentralization
+    title: IPFS and how to distribute the web
+    extract: >
+      This is your introduction to the distributed web in the incarnation of IPFS. A really cool platform that retains the
+      original vision of the web and makes it truly distributed. Firstly we will go through a couple of problem areas with
+      the current internet infrastructure and how IPFS fits into this vision. We will then move on to how IPFS actually
+      works and show some examples with JavaScript. We will look at - how the files are fingerprinted, versioned and
+      identified - how the network of IPFS nodes finds the relevant data for us - decentralized and human friendly addressing
+      with IPNS - deploying a web site with IPFS Lastly we will look at some typical use cases for IPFS. We will note how
+      it fits rather nicely as a storage option for blockchain applications.
+  -
+    slot: "16"
+    speaker_id:
+      - ivan-jovanovic
+    tags:
+      - node.js
+      - microservices
+    title: Node Microservices - the definitive guide
+    extract: >
+      Docker, Kubernetes, event bus, microservices, API gateway... So many unknown words and more important, unknown architecture.
+      I’ve written a lot of microservices and found some best practices to develop scalable and maintainable apps. This is the
+      definitive guide for building the Node microservices.
+  -
+    slot: "24"
+    speaker_id:
+      - mate-nadasdi
+    tags:
+      - video
+      - WebRTC
+      - 360
+      - VR
+    title: >
+      “The Upside Down” of the web: Video
+    extract: >
+      Video technologies are "The Upside Down” of the web for sure. Being a frontend engineer writing HTML5 video players, WebRTC
+      broadcast clients, supporting 360/VR videos is just like to live in a parallel universe where everything and nothing is the
+      same. Working with video is an exciting combination of all the trendy stuff out there what we like: new Web APIs, ByteArrays,
+      Workers, MSE/DRM, WebRTC, WebGL, etc. In my talk I would like to use the Stranger Things analogy to tell the story of a video
+      engineer who wants to craft a 360/VR html5 player from scratch using some handcrafted DASH/HLS stream. The purpose of sharing
+      this adventure is to talk about this universe, give a detailed walkthrough of the implementation and its challenges and to
+      point out that everyone has the power in their browser to write such a cool thing and it’s an amazing adventure.
+  -
+    slot: "28"
+    speaker_id:
+      - sara-vieira
+    tags:
+      - mental health
+      - wellness
+      - keynote
+    title: Your brain doesn't have a fix flag
+    extract: >
+      Depression and anxiety are enormous problems in our work and world in general. But they are topics that are not discussed
+      enough and topics that we feel are kind of shameful. In this talk Sara will expose her personal mental health issues that she
+      had for a long time so you don’t ever feel embarrassed again. She will go through what she learned in this horrible horrible
+      journey of putting a fix flag on her brain in the hope that it helps as many people as possible.
+  -
+    slot: "4"
+    speaker_id:
+      - guido-dorsi
+    tags:
+      - vanilla
+    title: The vanilla way
+    extract: >
+      Let's mix web standards, modern frontend patterns &amp; some functional programming to invent a new way to develop vanilla js applications!
+  -
+    slot: "1"
+    speaker_id:
+      - zack-argyle
+    tags:
+      - use cases
+      - PWA
+      - keynote
+    title: Pinterest ❤️ Mobile Web
+    extract: >
+      A case study of the from-scratch, 3-month rewrite of Pinterest's mobile web app. Learn about how they optimized for mobile, and the
+      bottom-line benefits of investing in the mobile web.
+  -
+    slot: "8"
+    speaker_id:
+      - aurore-malherbes
+    tags:
+      - React Native
+      - Mobile
+    title: Coding The Fork app in React Native
+    extract: >
+      Very often, people ask me if it is possible to take pictures or to geolocate a user with a React Native application. The answer is yes,
+      yes and yes! In 50 minutes, we’ll look at how to code an app half way between The Fork and Instagram. I’d like to show you why I believe
+      that React Native is the mobile technology of the future, whether in terms of user experience or developer experience.
+  -
+    slot: "6"
+    speaker_id:
+      - maurizio-mangione
+    tags:
+      - PWA
+      - Lighthouse
+    title: LDD PWA (Lighthouse Driven Development for Progressive Web Apps)
+    extract: >
+      We've all heard of Progressive Web Apps but who knows what a PWA is? How can I add PWA features to my existing Website/Web
+      application? During this talk, we use Lighthouse, an open-source, automated tool for improving the quality of web pages,
+      understanding which features we need to transform our website into a full-fledged PWA. We're going to run Lighthouse, using
+      it as a checklist for creating the perfect PWA.
+  -
+    slot: "14"
+    speaker_id:
+      - paul-verbeek-mast
+    tags:
+      - teamwork
+      - lego
+      - keynote
+    title: >
+      Everything is awesome: the Lego approach to being an awesome coworker
+    extract: >
+      🎵Everything is cool when you’re part of a team! The Lego Movie came out almost 4 years ago, and it taught children everywhere the importance
+      of teamwork. And what teamwork, and working in harmony, actually is. Let’s just hope that those lessons really stick with these kids. Because let’s
+      be honest, we’re making a mess of it. But it’s not too late for us. We can learn from the Lego Movie as well. I’ll show you how you can help to make
+      sure everyone feels safe and respected in your team and your company. How you can feel better being the unique person you are within your team. And
+      how you can make your, and everyone else’s, life more awesome!
+  -
+    slot: "27"
+    speaker_id:
+      - keyfer-mathewson
+    tags:
+      - Artificial Intelligence
+      - Machine Learning
+    title: Artificial Intelligence and Machine Learning in the browser
+    extract: >
+      The Artificial Intelligence and Machine Learning fields are incredibly vast, but only going to grow bigger. Right now, the
+      majority of individuals in the field are not JavaScript developers, but rather Python and other high-level programming languages.
+      This talk aims to show people an entry point into writing and using AI/ML in the browser using some newer technologies, and how
+      these powerful tools can be harness to help with development, accessibility, personalization, and interactivity on the web.
+  -
+    slot: "19"
+    speaker_id:
+      - nara-kasbergen
+    tags:
+      - voice assistants
+      - voice-based interfaces
+      - node.js
+    title: >
+      Finding Your Voice: Building Screenless Interfaces with Node.js
+    extract: >
+      "OK Google, ask Alexa to check if Siri can recommend Cortana a movie to watch with Bixby." Voice assistants are one of
+      the biggest emerging technologies in 2018, and every company wants in. At NPR, the largest public radio producer in the
+      United States, our interest in voice-based interfaces is obvious; they're a natural fit for our content, which has always
+      taken an audio-first approach. But given that it's still such a new field, the development process is anything but straightforward:
+      how do you even prototype a screenless interface? How does the Alexa platform differ from, say, Google Assistant, and can you
+      develop one app for both? What's a Lambda, and do you have to use it? In this talk, we'll run through these confusing, high-level
+      questions, and then go over some real-world code samples for a Node.js API that powers a voice-based UI. For demo purposes, we'll
+      use Amazon Alexa, but we'll also discuss strategies we've used to develop an infrastructure that can support other voice assistants
+      once they are further along. Finally, we'll discuss the mistakes we made, the things we wish we'd done differently, and the things
+      we wished we'd known up front as we set out on our journey to build a next-generation voice UI framework in-house at NPR.
+  -
+    slot: "26"
+    speaker_id:
+      - brian-holt
+    tags:
+      - performances
+      - babel
+      - webpack
+      - tips & tricks
+    title: >
+      10KB or Bust: The Delicate Power of Webpack and Babel
+    extract: >
+      Your app is bigger and slower than it needs to be. Without rewriting app code we can squeeze more performance out of your code
+      by tweaking Webpack and Babel. These tools are immensely powerful but it’s a delicate dance to get them to play nice. This talk
+      is full of tips and tricks to get you there. After three years of tooling around with Webpack and Babel at Netflix, LinkedIn, and
+      Reddit I’ve gotten some battle-won knowledge that I’d like to share with you all. Some non-intuitive tricks that lead to smaller
+      bundles, faster parse times, browser-engine opts and de-opts, and faster perceived load times. While these examples will use Preact
+      to make examples this apply to any application that uses these two phenomenal tools. You’ll be surprised at what you can do just
+      turning a few knobs.
+  -
+    slot: "15"
+    speaker_id:
+      - francesco-strazzullo
+    tags:
+      - design patterns
+      - legacy code
+    title: >
+      StranglerApplication pattern: a legacy frontend use case
+    extract: >
+      The frontend community shifted from simple websites with jQuery to complex Single Page Applications with Angular, React and so on.
+      With this community getting bigger and "older" there's another kind of problems that we need to solve. How to manage Legacy frontend
+      codebases. But when we can call a frontend codebase “legacy” and how we can manage it in a safe way? During the talk, we are going to
+      see how we applied the StranglerApplication pattern to make an AngularJS 1.2 Application in a shiny new codebase that our team really
+      love.
+  -
+    slot: "11"
+    speaker_id:
+      - irina-shestak
+    tags:
+      - HTTP
+      - HTTP2
+      - node.js
+    title: >
+      HTTP2, one frame at a time
+    extract: >
+      Node Files. Take #1337. ~ * Action! * ~ INT. jsDay CONFERENCE VENUE The camera zooms in on an intense discussion between Scully and
+      Mulder. Both are huddled around a terminal, both are uncertain about the next steps. Ghosts of old TCP connections wail in the background.
+      Scully is frantically typing. The left hand side shows a new session starting. Soon a new stream created. Multiple requests come in and
+      Scully and Mulder frantically look at each other with a single face expression -- what. do. we. do. now? A minute passes. Scully looks
+      like she has an idea. ~ * Scene * ~ In this fresh off the press episode of Node Files, I will take you to a set of Node.js' implementation
+      of HTTP2. Its quirks, its benefits, and its workings explained and illustrated. How do we get from an established connection to TLS
+      decryption? How does the concept of session come in to play? How does node handle memory usage when it comes to HTTP2? And what are these
+      frame things everyone keeps talking about? This and more explained in HTTP2, one frame at a time. Coming to theatre near you from Spring 2018.
+  -
+    slot: "13"
+    speaker_id:
+      - luciano-mammino
+    tags:
+      - serverless
+      - cloud computing
+    title: >
+      The future will be Serverless
+    extract: >
+      Software development is on the verge of a new revolution that will change the rules of the Cloud Computing game... again! The new wind
+      of change is called "Serverless" and you should definitely get ready for it! In this talk I will illustrate why I believe Serverless
+      will be a game changer in the industry, how did we get to have Serverless and how to get started with it to build real products. Few
+      reasons why you will love this talk:
+      - It will cover the history of cloud computing so far (you will have goosebumps seeing how far we got in less than a decade!)<br>
+      - It will explain what Serverless actually is (and surprise... there are still servers somewhere...)<br>
+      - It will underline the major pros and cons of Serverless<br>
+      - It will provide a quick tour of the available providers and supported languages/technologies<br>
+      - It will show how to get started with the Serverless paradigm, either migrating existing apps or building a new one from scratch.<br>
+      - I will tell some real-life experience I have after almost 2 years of developing Serverless applications In Node.js/JavaScript<br>
+  -
+    slot: "20"
+    speaker_id:
+      - maja-wichrowska
+    tags:
+      - l8n
+      - RTL languages
+    title: >
+      Do the Right (to Left) Thing: Directional Content in React
+    extract: >
+      In 2017, Airbnb supported 27 languages and had developed robust translation tools that made it easy to add more. We launched Croatian
+      in May with little overhead beyond setting up the new domain and translating phrases. However, this was not true for all new languages;
+      our next most requested language, Hebrew, posed a unique challenge. Because it reads right-to-left, the entire Hebrew UI must be flipped.
+      Browsers only handle reversing the DOM structure, but styling and interactions must be coded manually. This talk covers the journey of
+      enabling right-to-left languages on airbnb.com. Recently, Airbnb has moved to a React frontend and away from Sass to a CSS-in-JS paradigm.
+      We developed a performant and cross-browser solution for RTL that leveraged a CSS-in-JS abstraction layer to isolate the logic from our
+      codebase. Our efforts led us most of the way to launching in Arabic and Hebrew while requiring little effort from our product engineers and
+      with minimal disruption to their work.
+  -
+    slot: "3"
+    speaker_id:
+      - matteo-collina
+    tags:
+      - performances
+      - node.js
+      - v8
+    title: >
+      My node.js process is on fire
+    extract: >
+      At 10am on Black Friday, your phone rings: the new JS application you deployed came under too much load, and the site has gone down! Your
+      employer is losing sales opportunities... your employer is losing money! But you don’t lose your cool. You log into your cloud provider
+      and tweak your autoscaling settings. Now the deployment can handle the load spike but with four times the number of servers, which is four
+      times the cost. The next day, you try to analyze what happened and begin to optimize your application to prepare for future load spikes. This
+      talk is a journey into the world of Node.js performance, taking a look at the available tools and optimization techniques inspired by insight
+      gained from glimpsing under the hood of Node and V8.
+  -
+    slot: "17"
+    speaker_id:
+      - matteo-collina
+      - luca-maraschi
+    tags:
+      - workshop
+      - performances
+      - node.js
+      - v8
+    title: >
+      The Node.js Performance Workshop
+    extract: >
+      We’ve been discovering how to write performant JavaScript in Node.js since the beginning. Before we knew how it was it done it all seemed so
+      magical. But as we became better at understanding fast-scrolling text littered with hex addresses we began a journey to solidify our approach
+      and share it with others. Our primary strategy? Build tools that make optimizing Node easier, then formalize a workflow process around those
+      tools. The workshop is extremely interactive. We make sure that each participant solves several performance issues in a given HTTP application.
+      Our methods and tools include 0x for flamegraph generation, autocannon for HTTP/1.1 benchmarking, v8 trace analysis, and bytecode interpretation
+      all within a structured analysis workflow. <br>
+      Requirements: Participation requires a recent version of either Linux, Windows or macOs. You will need root/admin access, and the ability to
+      build native node modules (XCode and command line tools on Mac OS X, Visual Studio on Windows).
+  -
+    slot: "12"
+    speaker_id:
+      - nir-noy
+    tags:
+      - ES modules
+    title: >
+      ES Modules: The next revolution?
+    extract: >
+      Modules are an essential part of any non-trivial JavaScript application which requires more than a single code file. And while modules have
+      been a standard part of JavaScript Since ES2015, it has taken browsers a while to support them. During this time, developers have turned to
+      tools such as WebPack, Rollup, and Browserify. These solutions have completely changed the way we write and deploy our web applications. But
+      now that browsers are starting to support ES2015 modules, it's a good time to examine if these solutions are still relevant. In this session
+      I will show why built-in browser support for ES2015 modules is a Game Changer, and how, when combined with additional new JavaScript features
+      and network protocols, can revolutionize the way in which we package and deploy web applications. I will explain in detail, the benefits and
+      limitations of browser support for ES2015 modules, and highlight their advantages over existing JavaScript packaging solutions.
+  -
+    slot: "9"
+    speaker_id:
+      - vitalii-bobrov
+    tags:
+      - typescript
+    title: >
+      TypeScript - JavaScript you are gonna love
+    extract: >
+      TypeScript, as the superset of JS uses compile-time type checkings with latest specification standard and proposals. The community chose it for
+      thousands of projects, and it is not limited to the Angular ecosystem. It brings such powerful features like interfaces, generics, abstract
+      classes into JS. With all-powerful tooling, it will make your JavaScript, React, Vue cleaner and less error-prone. It could involve back-end
+      developers with Java or C# background into the client-side code. I want to show that with TypeScript you will be more productive no matter what
+      front end technology you use.
+  -
+    slot: "22"
+    speaker_id:
+      - vitalii-bobrov
+    tags:
+      - PWA
+      - security
+      - service workers
+    title: >
+      PWA as a new Cyber Attack Vector
+    extract: >
+      Progressive Web Apps - one of the hottest topics of last years. It is populated by big companies and become competition for native
+      applications. The main API for PWA creation is Service Workers. But have you think about it as a possible browsers vulnerability?
+      Is it secure enough? Should users use it carefully? All those questions are very actual in times when almost all vendors have implemented
+      or put in development Service Workers support.
+  -
+    slot: "25"
+    speaker_id:
+      - william-durand
+    tags:
+      - SSR
+    title: >
+      Server Side Rendering from the trenches
+    extract: >
+      Server Side Rendering (SSR) is a technique to reuse client-side JavaScript code on the server. The main advantage is to speed up the first
+      rendering time and improve the user experience on page load. It is considered one of the most complicated features to implement in the JS
+      ecosystem. Yet, web apps with a high traffic often need it. In this talk, I’ll start by introducing the concept of SSR, followed by examples
+      with React, Vue and some other frameworks (like Next or Nuxt). The last part will be dedicated to what I've learned building the new Mozilla
+      Add-ons frontend.
+  -
+    slot: "10"
+    speaker_id:
+      - luigi-derosa
+    tags:
+      - webgl
+      - games development
+    title: >
+      My journey with WebGL
+    extract: >
+      In the past years I've had chance to work on different WebGL projects, from particles simulation to games.
+      In this talk I'm going to show my journey with WebGL, I'll talk about common pitfalls, performance tricks and how to debug it.
+      Everything using real world examples and production code.
+  -
+    slot: "18"
+    speaker_id:
+      - jonni-nakari
+    tags:
+      - PWA
+      - API
+    title: >
+      Web Payment APIs
+    extract: >
+      Implementing the standard Web Payment APIs will not just improve the user experience, but increase the chance of maintaining your users.
+      Thanks to the safety nature of the process of payment, the APIs will make the decision of clicking "pay" easier like never before. In this
+      presentation we will discuss the basics of implementing the APIs, the available gateways, and show some demos and how they resonate in the
+      era of PWA. We will also discuss the current limitations, and how the future will look like towards standardizing those APIs. In this
+      presentation I will give an intro about web payment APIs, why they are needed, comparison with autofill APIs, and how to implement them with
+      sample code. I will also cover some important use cases, and current limitations.
+  -
+    slot: "7"
+    speaker_id:
+      - liran-tal
+    tags:
+      - Jest
+      - testing
+      - design patterns
+    title: >
+      Jest Testing Patterns
+    extract: >
+      Test doubles? Assertions? Code coverage? Jest has it all! There are many testing frameworks and test utilities in the JavaScript ecosystem,
+      but jest is the one which is quickly becoming a favorite for many developers. The talk will introduce jest as a testing framework, the reasons
+      why developers love it, and explore its hidden features, testing patterns, and Jest's extensions ecosystem.
+  -
+    slot: "21"
+    speaker_id:
+      - liran-tal
+    tags:
+      - Node.js
+      - Application Security
+      - OWASP
+      - Hacking
+    title: >
+      Node.js Security: Breaking The Loop
+    extract: >
+      Node.js and JavaScript adoption is high and application security plays a big part in shipping your products in the midst
+      of cyber security threats. We will deep-dive into practical Node.js security measures which you can easily implement in
+      your current projects. Covering topics such as OWASP Top 10 vulnerabilities, Secure Code Guidelines, Leveraging recommended
+      npm libraries, Hardening ExpressJS, and Secure Dependencies Management with CI/CD integration.

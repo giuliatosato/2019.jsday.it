@@ -1,0 +1,12 @@
+.scolarships__description strong {
+    font-weight: bold;
+}
+
+.scolarships__description a {
+    text-decoration: underline;
+}
+
+.scolarships__description {
+    line-height: 1.4;
+    margin-bottom: 2rem;
+}

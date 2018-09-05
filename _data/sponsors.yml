@@ -1,0 +1,61 @@
+main:
+  list:
+    -
+      url: https://www.accenture.com/it-it/
+      image: accenture.svg
+
+diamond:
+  list:
+    -
+      url: http://www.liferay.com
+      image: liferay.svg
+
+platinum:
+  list:
+    -
+      url: https://www.nearform.com/?utm_source=jsday
+      image: nearform.svg
+    -
+      url: https://www.siteground.it/?utm_source=jsday
+      image: siteground.svg
+    -
+      url: https://www.skill.it/?utm_source=jsday
+      image: skill.svg
+    -
+      url: http://careers.workwave.com/?utm_source=jsday
+      image: workwave.svg
+
+gold:
+  list:
+    -
+      url: https://caffeina.com/
+      image: caffeina.svg
+    -
+      url: https://www.docsity.com/it/pag/career/
+      image: docsity.svg
+    -
+      url: http://www.ideato.it/?utm_source=jsday
+      image: ideato.svg
+
+silver:
+  list:
+    -
+      url: https://balsamiq.com/?utm_source=jsday
+      image: balsamiq.svg
+    -
+      url: http://www.extrategy.it/?utm_source=jsday
+      image: extrategy.svg
+    -
+      url: https://www.facile.it/?utm_source=jsday
+      image: facile.svg
+    -
+      url: https://labs.madisoft.it/frontend-developer/?utm_source=jsday
+      image: madisoft.svg
+    -
+      url: https://info.subito.it/lavora-con-noi.htm
+      image: subito.svg
+bronze:
+  list:
+    -
+      url: https://goseetalents.com/
+      image: goseetalents.png
