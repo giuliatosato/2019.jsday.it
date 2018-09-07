@@ -1,20 +1,21 @@
-name: jsDay
+name: jsday
 where: Verona, Italy
-when: May 9th-10th 2018
+when: May 8th-9th 2019
 venue: Hotel S. Marco
 since: 2012
-year: 2018
-tagline: The international JavaScript Conference
-url: https://2018.jsday.it
+year: 2019
+tagline: The international JavaScript conference
+url: https://2019.jsday.it
 descr: The first international conference on JavaScript in Italy
 twitter: "@jsconfit"
 facebook: jsday.conference
 media_partners_helper: jsday.js
 domain: jsday.it
-show_cfp: false
+show_cfp: true
 cfp_url: https://cfp.jsday.it/
-scolarships_available: false
-schedule_available: true
+scolarships_available: true
+schedule_available: false
+eventbrite_link: https://eventbrite.com/tickets-external?eid=46036945744&ref=etckt
 
 iubenda:
   cookiePolicyId: 35664682
