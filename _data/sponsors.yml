@@ -13,7 +13,7 @@ platinum:
 gold:
   list:
     -
-      url: http://www.ideato.it/?utm_source=jsday
+      url: https://www.ideato.it/?utm_source=jsday
       image: ideato.svg
 
 silver:
