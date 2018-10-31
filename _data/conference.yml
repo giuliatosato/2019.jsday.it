@@ -13,7 +13,7 @@ media_partners_helper: jsday.js
 domain: jsday.it
 show_cfp: true
 cfp_url: https://cfp.jsday.it/
-scolarships_available: true
+scholarships_available: false
 schedule_available: false
 eventbrite_link: https://eventbrite.com/tickets-external?eid=46036945744&ref=etckt
 
