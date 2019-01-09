@@ -18,6 +18,12 @@ gold:
 
 silver:
   list:
+    -
+      url: https://labs.madisoft.it/?utm_source=jsday
+      image: madisoft.svg
+
+    - url: https://balsamiq.com/?utm_source=jsday
+      image: balsamiq.svg
 
 bronze:
   list:
