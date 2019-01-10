@@ -3,6 +3,9 @@ main:
 
 diamond:
   list:
+    -
+      url: https://engineering.dazn.com/?utm_source=jsday
+      image: dazn.svg
 
 platinum:
   list:
