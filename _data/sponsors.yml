@@ -19,11 +19,14 @@ gold:
 silver:
   list:
     -
+      url: https://balsamiq.com/?utm_source=jsday
+      image: balsamiq.svg
+    -
       url: https://labs.madisoft.it/?utm_source=jsday
       image: madisoft.svg
-
-    - url: https://balsamiq.com/?utm_source=jsday
-      image: balsamiq.svg
+    -
+      url: https://www.siteground.it/?utm_source=phpday
+      image: siteground.svg
 
 bronze:
   list:
