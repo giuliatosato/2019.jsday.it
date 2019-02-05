@@ -18,9 +18,6 @@ gold:
     -
       url: https://www.ideato.it/?utm_source=jsday
       image: ideato.svg
-    -
-      url: https://www.shellrent.com/?utm_source=jsday
-      image: shellrent.svg
 
 silver:
   list:
