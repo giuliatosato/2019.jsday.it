@@ -31,6 +31,9 @@ silver:
       url: https://labs.madisoft.it/?utm_source=jsday
       image: madisoft.svg
     -
+      url: https://www.opencontent.it/?utm_source=jsday
+      image: opencontent.svg
+    -
       url: https://www.siteground.it/?utm_source=jsday
       image: siteground.svg
 
