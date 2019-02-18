@@ -6,6 +6,9 @@ diamond:
     -
       url: https://engineering.dazn.com/?utm_source=jsday
       image: dazn.svg
+    -
+      url: http://liferay.com/it/?utm_source=jsday
+      image: liferay.svg
 
 platinum:
   list:
