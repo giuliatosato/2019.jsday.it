@@ -8,3 +8,142 @@
 #    last_name:
 #    twitter:
 list:
+  -
+    id: gant-laborde
+    description:
+    image: gant-laborde.jpg
+    first_name: Gant
+    last_name: Laborde
+    twitter:
+  -
+    id: alessandro-cinelli
+    description:
+    image: alessandro-cinelli.jpg
+    first_name: Alessandro "cirpo"
+    last_name: Cinelli
+    twitter:
+  -
+    id: tony-edwards
+    description:
+    image: tony-edwards.jpg
+    first_name: Tony
+    last_name: Edwards
+    twitter:
+  -
+    id: anna-backs
+    description: >
+      Anna Backs is a software developer and IT-consultant. She is part of small team building an interactive 3D-control panel for managing the IoT devices in her company's office building. In her free time she walks her dog and drinks coffee.
+    image: anna-backs.jpg
+    first_name: Anna
+    last_name: Backs
+    twitter: merelyAnna
+  -
+    id: christina-zenzes
+    description:
+    image: christina-zenzes.jpg
+    first_name: Christina
+    last_name: Zenzes
+    twitter:
+  -
+    id: alex-hinson
+    description: >
+      Alex is a Chattanooga-based developer working for Airship. He works primarily with React and React Native, but has a passion for mobile development in general. He's also a musician (percussionist) and is an avid foodie.
+    image: alex-hinson.jpg
+    first_name: Alex
+    last_name: Hinson
+    twitter:
+  -
+    id: srushtika-neelakantam
+    description: >
+      Srushtika Neelakantam handles DevRel for Ably Realtime. She is a passionate tech advocate, with a keen interest in real-time and web technologies! She is a regular speaker at tech conferences worldwide and a co-author of “Learning Web-Based Virtual Reality” published by Apress. She is a champion of the open web, officially supported by Mozilla's Tech speaker and Reps programs.
+    image: srushtika-neelakantam.jpg
+    first_name: Srushtika
+    last_name: Neelakantam
+    twitter: Srushtika
+  -
+    id: rodrigo-pombo
+    description: >
+      Ten years writing all type of software. Currently more web dev than anything else. I ?? JS.
+    image: rodrigo-pombo.jpg
+    first_name: Rodrigo
+    last_name: Pombo
+    twitter: pomber
+  -
+    id: francesco-strazzullo
+    description: >
+      Francesco Strazzullo is a Front-End Engineer, speaker and writer for codingjam.it. When not working for Flowing or his personal github projects, Francesco likes to relax playing with his Playstation or cooking some strange ethnic dish for him and his friends
+    image: francesco-strazzullo.jpg
+    first_name: Francesco
+    last_name: Strazzullo
+    twitter: TheStrazz86
+  -
+    id: oleksandr-tryshchenko
+    description: >
+      Senior JavaScript developer at DataArt Active public speaker at Austria, Germany, Poland, Ukraine Open Source contributor Node.js Wroclaw meetup organizer
+    image: oleksandr-tryshchenko.jpg
+    first_name: Oleksandr
+    last_name: Tryshchenko
+    twitter:
+  -
+    id: max-gallo
+    description: >
+      I’m a pasta eater biped working at DAZN with hands-on experience as a Full Stack Developer, iOS Developer and UI/UX Designer. My areas of expertise are JavaScript and Front-End technologies. I like Functional &amp; Reactive solutions both for programming and architectures. I use spaces, not tabs.
+    image: max-gallo.jpg
+    first_name: Max
+    last_name: Gallo
+    twitter: _maxgallo
+  -
+    id: patrycjusz-szydlo
+    description: >
+      Committed and responsible software developer, with more than a decade of experience building pixel perfect web apps, designing, implementing and adapting technically sophisticated single page applications. At daily basis focused on helping agile teams with UI development for large scale single page applications. Flexible in working environments having positioned for startups, software houses, and fortune 500 companies. Also father, lawyer, tenis player and running fanatic.
+    image: patrycjusz-szydlo.jpg
+    first_name: Patrycjusz
+    last_name: Szydło
+    twitter:
+  -
+    id: diego-rodriguez
+    description: >
+      Senior Backend Developer @ Inalambria. WebTorrent Core Member. Node.js Advocate.
+    image: diego-rodriguez.jpg
+    first_name: Diego
+    last_name: Rodríguez
+    twitter: diegorbaquero
+  -
+    id: ju-liu
+    description: >
+      Ju was born in China, moved to Italy as a kid, grew up eating a lot of pasta, and started messing around with computers. He now lives in London and works for NoRedInk. He loves solving hard problems and building amazing products. When he’s not doing that, he’s probably rock climbing.
+    image: ju-liu.jpg
+    first_name: Ju
+    last_name: Liu
+    twitter:
+  -
+    id: giamir-buoncristiani
+    description: >
+      Giamir and Rufus are software developers, Agile consultants, and frontend advocates. They lead the internal frontend community at ThoughtWorks and draw inspiration and insights from the real-world experiences of their peers across the world.
+    image: giamir-buoncristiani.jpg
+    first_name: Giamir
+    last_name: Buoncristiani
+    twitter: giamir
+  -
+    id: rufus-raghunath
+    description:
+    image: rufus-raghunath.jpg
+    first_name: Rufus
+    last_name: Raghunath
+    twitter:
+  -
+    id: trishul-goel
+    description: >
+      Trishul is a professional frontend developer; writes React code for living and volunteers for Mozilla to justify his existence. He promotes PWAs to developers #teamWeb. He loves to talk about modern Javascript and tries to use it to solve all of his problems, even the domestic ones. He is an expert in developing browser extensions. You may know him for his Measure-it extension with 20K+ users. He also creates Youtube tutorial videos, to help developers to understand and get started with various Webextension APIs
+    image: trishul-goel.jpg
+    first_name: Trishul
+    last_name: Goel
+    twitter: trishulgoel
+  -
+    id: matthias-dugue
+    description: >
+      m4dz is a strange animal. Through many lives, he always tried to teach to others what he learnt himself. Previously a web developer (nobody's perfect), concerned about privacy, a respect of private data, and cyber security. He's now Tech Evangelist at alwaysdata. He tries to inform about present and future of digital issues. His favorite book always remains «Alice in Wonderland».
+    image: matthias-dugue.jpg
+    first_name: m4dz Matthias
+    last_name: Dugué
+    twitter: m4d_z
