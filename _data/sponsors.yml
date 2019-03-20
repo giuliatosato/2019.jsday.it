@@ -25,17 +25,20 @@ gold:
 silver:
   list:
     -
-      url:  https://www.linkedin.com/company/milkman-deliveries
-      image: milkman.svg
-    -
       url: https://balsamiq.com/?utm_source=jsday
       image: balsamiq.svg
+    -
+      url: https://bitrock.it/?utm_source=jsday
+      image: bitrock.svg
     -
       url: https://www.facile.it/?utm_source=jsday
       image: facile.svg
     -
       url: https://labs.madisoft.it/frontend-developer/?utm_source=jsday
       image: madisoft.svg
+    -
+      url: https://www.linkedin.com/company/milkman-deliveries
+      image: milkman.svg
     -
       url: https://www.opencontent.it/?utm_source=jsday
       image: opencontent.svg
