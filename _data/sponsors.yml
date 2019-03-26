@@ -48,3 +48,9 @@ silver:
 
 bronze:
   list:
+
+diversity:
+  list:
+    -
+      url: https://cloudinary.com/?utm_source=jsday
+      image: cloudinary.svg
