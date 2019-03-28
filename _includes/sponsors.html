@@ -67,6 +67,17 @@
                     </div>
                 {% endfor %}
             {% endif %}
+
+            {% if site.data.sponsors.diversity.list | size %}
+                {% for sponsor in site.data.sponsors.diversity.list %}
+                    <div class="sponsor sponsor--diversity">
+                        <a class="sponsor__card" href="{{ sponsor.url }}">
+                            <span class="sponsor__package">Diversity</span>
+                            <img class="sponsor__logo" src="{{ site.baseurl }}/images/sponsors/{{ sponsor.image }}"/>
+                        </a>
+                    </div>
+                {% endfor %}
+            {% endif %}
         </div>
     </div>
 </div>
