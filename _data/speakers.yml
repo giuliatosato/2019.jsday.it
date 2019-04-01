@@ -10,25 +10,27 @@
 list:
   -
     id: gant-laborde
-    description:
+    description: >
+      Gant Laborde is a software consultant, adjunct professor, published author, and award-winning speaker. He volunteers as a mentor, an “open sourcerer”, and aspires to one day become a mad scientist. His JavaScript prowess is prevalent through blogs, videos, and maintainer status in popular repositories. Follow Gant’s adventures at http://gantlaborde.com/
     image: gant-laborde.jpg
     first_name: Gant
     last_name: Laborde
-    twitter:
+    twitter: gantlaborde
   -
     id: alessandro-cinelli
-    description:
+    description: >
+      Alessandro Cinelli (a.k.a. cirpo) is currently working in London as DX Engineering Manager at DAZN. He loves playing with programming languages and give back to the community. These days he is busy co-organizing tech events with @WEBdeLDN in London.
     image: alessandro-cinelli.jpg
     first_name: Alessandro "cirpo"
     last_name: Cinelli
-    twitter:
+    twitter: cirpo
   -
     id: tony-edwards
     description:
     image: tony-edwards.jpg
     first_name: Tony
     last_name: Edwards
-    twitter:
+    twitter: tonyedwardspz
   -
     id: anna-backs
     description: >
@@ -39,11 +41,12 @@ list:
     twitter: merelyAnna
   -
     id: christina-zenzes
-    description:
+    description: >
+      Christina Zenzes is a consultant and software dev. She is part of a team that is developing an interactive control panel for managing all IoT devices in her company’s office building. She likes to grow plants on her balcony, pet cats, cook, and eat.
     image: christina-zenzes.jpg
     first_name: Christina
     last_name: Zenzes
-    twitter:
+    twitter: merelyChristina
   -
     id: alex-hinson
     description: >
