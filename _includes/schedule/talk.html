@@ -1,9 +1,16 @@
+{{ include }}<br>
 {% for talk in site.data.talks.list %}
-  {% if talk.slot == include.slot %}
+  {{ talk.slot|integer }} == {{ include.slot|integer }}?<br>
+  {% if talk.slot|string === include.slot|string %}
     {% assign title = talk.title %}
     {% assign speaker_id = talk.speaker_id %}
     {% assign talk_slot = talk.slot %}
+    {{ title }} | {{ speaker_id }} | {{ talk_slot }}<br><br>
     {% break %}
+  {% else %}
+    {% assign title = "" %}
+    {% assign speaker_id = "" %}
+    {% assign talk_slot = "" %}
   {% endif %}
 {% endfor %}
 
@@ -21,7 +28,7 @@
       </div>
     </td>
   {% else %}
-    <td {% if include.fill %} colspan="3" {% endif %}>
+    <td {% if include.fill %} colspan="2" {% endif %}>
       <div class="schedule__talk-title {% if include.fill %}centered{% endif %}">
         <a class="schedule__talk-title" href="talks.html#slot{{ talk_slot }}">
           {{ title }}

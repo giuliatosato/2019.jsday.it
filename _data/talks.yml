@@ -10,6 +10,7 @@
 
 list:
   -
+    slot: 2
     speaker_id:
       - alessandro-cinelli
     title: Dear JavaScript
@@ -21,6 +22,105 @@ list:
       writing more idiomatic and consistent JS code, learning from the mistakes he made and that he still witness every
       time he sees other devs start using it.
   -
+    slot: 3
+    speaker_id:
+      - ju-liu
+    title: Fearless Refactoring in Elm
+    extract: >
+      When we take on a big refactoring, we often get this uncomfortable feeling of doubt. A little demon appears on our
+      shoulder and asks "Did you remember to make all the changes? Are you sure? Sure sure?". We check the code again,
+      run the tests and all is passing. Great. But that demon is still there, still nagging "Are you super sure? The
+      tests were passing last time too...". In this talk, we will see how Elm can free us from those moments of self
+      doubt. We will start with a short introduction of the language, explaining its design and philosophy. We will
+      then start a full-on refactoring in the biggest Elm codebase in the world. We will see how the Elm compiler can
+      help us make this sort of changes in a confident and predictable way. At the end of the talk, you will have a good
+      understanding of how Elm works and what advantages it can bring to your toolset.
+  -
+    slot: 4
+    speaker_id:
+      - max-gallo
+    title: Reinventing RxJS
+    extract: >
+      RxJS has become almost a standard in the emerging reactive Front-End world. If you're not using it right now, you
+      probably played with a few operators. In the talk we're going to rewrite RxJS from scratch, seeing behind the
+      curtains which are the core components and the ideas of the library. You'll see how to build Observables,
+      Subscriptions and Operator, then we'll introduce Schedulers and how they're used in RxJS. If you fancy Reactive
+      Programming or simply you want to learn something new then... this talk is for you!
+  -
+    slot: 5
+    speaker_id:
+      - anna-backs
+      - christina-zenzes
+    title: Building Automation in the browser - An experience report
+    extract: >
+      Having a bunch of IoT-ready and remotely controllable devices only makes sense if the controls are intuitive and
+      the control surface is easily accessible. In the beginning of 2018, we started implementing such a user interface
+      for our office building using only JavaScript with frameworks like BabylonJS and React. This interface displays
+      the real-time state of our numerous devices, offers control panels for managing them and also incorporates other
+      services, like AWS and a calendar-API. We now want to show you how our microservice-application fits into the the
+      IoT-landscape and the overall architecture of our office building automation infrastructure and want to talk about
+      the pitfalls we encountered and the lessons we learned. There is no prior knowledge required about BabylonJS,
+      building automation or even JavaScript - the talk focuses on our experiences, our lessons learned and our
+      architecture on a higher level, and does not go into technical details.
+  -
+    slot: 6
+    speaker_id:
+      - elianne-schutze
+    title: Think globally, act locally with i18n on the web
+    extract: >
+      While about 51% of the world’s websites are in English, only about 25% of web users are English speakers. With
+      half of the world’s population online, internationalisation is as relevant as ever! Let’s explore how i18n gets
+      made on the web and what we should keep in mind or avoid when making the web more accessible to the world.
+  -
+    slot: 7
+    speaker_id:
+      - alex-hinson
+    title: Rapid Cross-Platform AR Development with React Native
+    extract: >
+      Augmented Reality's popularity is growing at an ever increasing rate, and it might seem as if native iOS and
+      Android developers are the only ones who have the skills to keep up. Fortunately, a platform called Viro was
+      created to enable web and mobile developers to develop cross-platform AR/VR experiences through the React Native
+      framework. We'll take a brief look at what AR is and how it works, and then take a deep dive into Viro and
+      everything it provides to get you moving rapidly with AR development. We'll focus on a few very interesting pieces
+      that Viro provides, such as 3D models, portals, image recognition, and real life object recognition. By the end of
+      this session, you will have the skills and inspiration to start working with AR immediately!
+  -
+    slot: 8
+    speaker_id:
+      - rodrigo-pombo
+    title: Build your own React
+    extract: >
+      How does React really work? Let's find out. We'll write a simplified version of React from scratch, based on the
+      real source code, including: jsx, fibers, reconciliation, hooks, and more.
+  -
+    slot: 9
+    speaker_id:
+      - patrycjusz-szydlo
+    title: Web performance monitoring - from A to Z
+    extract: >
+      Web perfomance monitoring isn't just another kind of KPI, it's much more. Regarding this, we are going to focus on
+      both - theory and practice. In the first place we figure out what we can measure and why it is worth doing.
+      Secondly, based on live coding session with sitespeed, we are going to quickly and efficiently obtain a lot of
+      metrics. At the end we will see how to preapre "ready to use" cluster with historical data. During the whole
+      presentation we will work on real case - all the examples will be based on the experience of frontend team in the
+      biggest polish job board - pracuj.pl.
+  -
+    slot: 10
+    speaker_id:
+      - diego-rodriguez
+    title: Scaling Node.js and unblocking the event-loop
+    extract: >
+      Don’t you hate it when your process is stuck processing 200k rows and other requests are not processed?!
+      Outrageous! But there’s a new and simple way of preventing this. Diego built sr so you can keep the modules you
+      import in another process and prevent this scenarios!
+  -
+    slot: 11
+    speaker_id:
+    title: TBA
+    extract: >
+      TBA
+  -
+    slot: 12
     speaker_id:
       - tony-edwards
     title: Beats, Rhymes and Unit Tests
@@ -37,51 +137,13 @@ list:
       iteration of the app is accompanied by a set of unit tests. The final unit test is executed live, resulting in
       a crescendo you won’t want to miss.
   -
+    slot: 13
     speaker_id:
-      - anna-backs
-      - christina-zenzes
-    title: Building Automation in the browser - An experience report
+    title: TBA
     extract: >
-      Having a bunch of IoT-ready and remotely controllable devices only makes sense if the controls are intuitive and
-      the control surface is easily accessible. In the beginning of 2018, we started implementing such a user interface
-      for our office building using only JavaScript with frameworks like BabylonJS and React. This interface displays
-      the real-time state of our numerous devices, offers control panels for managing them and also incorporates other
-      services, like AWS and a calendar-API. We now want to show you how our microservice-application fits into the the
-      IoT-landscape and the overall architecture of our office building automation infrastructure and want to talk about
-      the pitfalls we encountered and the lessons we learned. There is no prior knowledge required about BabylonJS,
-      building automation or even JavaScript - the talk focuses on our experiences, our lessons learned and our
-      architecture on a higher level, and does not go into technical details.
+      TBA
   -
-    speaker_id:
-      - alex-hinson
-    title: Rapid Cross-Platform AR Development with React Native
-    extract: >
-      Augmented Reality's popularity is growing at an ever increasing rate, and it might seem as if native iOS and
-      Android developers are the only ones who have the skills to keep up. Fortunately, a platform called Viro was
-      created to enable web and mobile developers to develop cross-platform AR/VR experiences through the React Native
-      framework. We'll take a brief look at what AR is and how it works, and then take a deep dive into Viro and
-      everything it provides to get you moving rapidly with AR development. We'll focus on a few very interesting pieces
-      that Viro provides, such as 3D models, portals, image recognition, and real life object recognition. By the end of
-      this session, you will have the skills and inspiration to start working with AR immediately!
-  -
-    speaker_id:
-      - srushtika-neelakantam
-    title: "Mixed Reality: Zero to Hero in 25 min"
-    extract: >
-      This talk will be a quick run-through of the Mixed Reality (MR) concepts, i.e both Virtual Reality (VR) and
-      Augmented Reality (AR), but specifically from a web developer’s perspective. Even though MR is graphics-heavy,
-      modern libraries like WebVR, AFrame VR and Web XR make it really easy for a web developer working with HTML and
-      JavaScript, to follow through and use existing tools to start building useful Mixed Reality applications that can
-      be accessed on the web. We’ll close the talk with a demo and behind-the-scenes of how it’s built. Bonus: Tools and
-      resources to use in your MR apps.
-  -
-    speaker_id:
-      - rodrigo-pombo
-    title: Build your own React
-    extract: >
-      How does React really work? Let's find out. We'll write a simplified version of React from scratch, based on the
-      real source code, including: jsx, fibers, reconciliation, hooks, and more.
-  -
+    slot: 14
     speaker_id:
       - francesco-strazzullo
     title: A DIY guide to building your own Rendering Engine
@@ -90,60 +152,30 @@ list:
       DOM elements without any kind of Framework? During the talk, we will analyze what are the challenges and the
       solutions of creating a complete frameworkless rendering engine.
   -
+    slot: 15
     speaker_id:
-      - oleksandr-tryshchenko
-    title: The journey through the hybrid mobile apps with JS
+      - matthias-dugue
+    title: "WebAssembly: Browser is now a real virtual machine"
     extract: >
-      Four years ago I started a wonderful adventure: I tried to build my first mobile application with JavaScript. The
-      first encounter was ugly and I kind of accepted the fact that hybrid mobile applications are cheap, slow and
-      limited brothers of native ones (I was mistaken!). However, due to financial efficiency, I was bumping into it
-      again and again. I tried all popular JavaScript solution for Hybrid Mobile apps and ended my journey through the
-      hybrid mobile applications with a happy end. I want to share with you the recipes we've learned, tell my story
-      and warn regarding the possible pitfalls. We'll look into the React Native, Cordova, PWA's and compare them with
-      native applications looking into the experience we've got working with them on real projects.
+      WebAssembly is a new virtual machine embedded in the browser. It doesn't transpile to JavaScript like its
+      forerunners; it produces a new binary format, like the old assembler, executed in a dedicated VM into your
+      browser. Genius, it exposes a bridge between JS APIs and WebAssembly executables. Last browsers engines
+      developments allow very fast exchanges between JS and WASM code. So, let's start with a projet that need a
+      huge computing time. We will develop the core code in Rust, compile it to WASM using LLVM, and we will display
+      the results in a front view powered via JavaScript. No need to know how does it work, we will see it together.
+      This talk takes place in a new series named #StartFromNowhere: let's start from front-end developers skills, and
+      deep dive into a new technology. In 45', let's learn the basics.
   -
+    slot: 16
     speaker_id:
-      - max-gallo
-    title: Reinventing RxJS
+      - trishul-goel
+    title: PWAs on steroids
     extract: >
-      RxJS has become almost a standard in the emerging reactive Front-End world. If you're not using it right now, you
-      probably played with a few operators. In the talk we're going to rewrite RxJS from scratch, seeing behind the
-      curtains which are the core components and the ideas of the library. You'll see how to build Observables,
-      Subscriptions and Operator, then we'll introduce Schedulers and how they're used in RxJS. If you fancy Reactive
-      Programming or simply you want to learn something new then... this talk is for you!
+      PWAs bring the best of both mobile and native apps to user. PWAs equipped with service workers provide features
+      like offline availability, push notifications etc. Now with modern web APIs, PWAs are beyond the browsers; in
+      Hardwares. Consider turning bulb on/off with your PWA, sounds cool? Lets learn how to, in this talk!
   -
-    speaker_id:
-      - patrycjusz-szydlo
-    title: Web performance monitoring - from A to Z
-    extract: >
-      Web perfomance monitoring isn't just another kind of KPI, it's much more. Regarding this, we are going to focus on
-      both - theory and practice. In the first place we figure out what we can measure and why it is worth doing.
-      Secondly, based on live coding session with sitespeed, we are going to quickly and efficiently obtain a lot of
-      metrics. At the end we will see how to preapre "ready to use" cluster with historical data. During the whole
-      presentation we will work on real case - all the examples will be based on the experience of frontend team in the
-      biggest polish job board - pracuj.pl.
-  -
-    speaker_id:
-      - diego-rodriguez
-    title: Scaling Node.js and unblocking the event-loop
-    extract: >
-      Don’t you hate it when your process is stuck processing 200k rows and other requests are not processed?!
-      Outrageous! But there’s a new and simple way of preventing this. Diego built sr so you can keep the modules you
-      import in another process and prevent this scenarios!
-  -
-    speaker_id:
-      - ju-liu
-    title: Fearless Refactoring in Elm
-    extract: >
-      When we take on a big refactoring, we often get this uncomfortable feeling of doubt. A little demon appears on our
-      shoulder and asks "Did you remember to make all the changes? Are you sure? Sure sure?". We check the code again,
-      run the tests and all is passing. Great. But that demon is still there, still nagging "Are you super sure? The
-      tests were passing last time too...". In this talk, we will see how Elm can free us from those moments of self
-      doubt. We will start with a short introduction of the language, explaining its design and philosophy. We will
-      then start a full-on refactoring in the biggest Elm codebase in the world. We will see how the Elm compiler can
-      help us make this sort of changes in a confident and predictable way. At the end of the talk, you will have a good
-      understanding of how Elm works and what advantages it can bring to your toolset.
-  -
+    slot: 17
     speaker_id:
       - giamir-buoncristiani
       - rufus-raghunath
@@ -159,23 +191,61 @@ list:
       provide a framework for thinking about how much future change you’ll need to account
       for. *evolutionaryarchitecture.com
   -
+    slot: 18
     speaker_id:
-      - trishul-goel
-    title: PWAs on steroids
+      - oleksandr-tryshchenko
+    title: The journey through the hybrid mobile apps with JS
     extract: >
-      PWAs bring the best of both mobile and native apps to user. PWAs equipped with service workers provide features
-      like offline availability, push notifications etc. Now with modern web APIs, PWAs are beyond the browsers; in
-      Hardwares. Consider turning bulb on/off with your PWA, sounds cool? Lets learn how to, in this talk!
+      Four years ago I started a wonderful adventure: I tried to build my first mobile application with JavaScript. The
+      first encounter was ugly and I kind of accepted the fact that hybrid mobile applications are cheap, slow and
+      limited brothers of native ones (I was mistaken!). However, due to financial efficiency, I was bumping into it
+      again and again. I tried all popular JavaScript solution for Hybrid Mobile apps and ended my journey through the
+      hybrid mobile applications with a happy end. I want to share with you the recipes we've learned, tell my story
+      and warn regarding the possible pitfalls. We'll look into the React Native, Cordova, PWA's and compare them with
+      native applications looking into the experience we've got working with them on real projects.
   -
+    slot: 19
     speaker_id:
-      - matthias-dugue
-    title: "WebAssembly: Browser is now a real virtual machine"
+    title: TBA
     extract: >
-      WebAssembly is a new virtual machine embedded in the browser. It doesn't transpile to JavaScript like its
-      forerunners; it produces a new binary format, like the old assembler, executed in a dedicated VM into your
-      browser. Genius, it exposes a bridge between JS APIs and WebAssembly executables. Last browsers engines
-      developments allow very fast exchanges between JS and WASM code. So, let's start with a projet that need a
-      huge computing time. We will develop the core code in Rust, compile it to WASM using LLVM, and we will display
-      the results in a front view powered via JavaScript. No need to know how does it work, we will see it together.
-      This talk takes place in a new series named #StartFromNowhere: let's start from front-end developers skills, and
-      deep dive into a new technology. In 45', let's learn the basics.
+      TBA
+  -
+    slot: 20
+    speaker_id:
+    title: TBA
+    extract: >
+      TBA
+  -
+    slot: 21
+    speaker_id:
+    title: TBA
+    extract: >
+      TBA
+  -
+    slot: 22
+    speaker_id:
+      - srushtika-neelakantam
+    title: "Mixed Reality: Zero to Hero in 25 min"
+    extract: >
+      This talk will be a quick run-through of the Mixed Reality (MR) concepts, i.e both Virtual Reality (VR) and
+      Augmented Reality (AR), but specifically from a web developer’s perspective. Even though MR is graphics-heavy,
+      modern libraries like WebVR, AFrame VR and Web XR make it really easy for a web developer working with HTML and
+      JavaScript, to follow through and use existing tools to start building useful Mixed Reality applications that can
+      be accessed on the web. We’ll close the talk with a demo and behind-the-scenes of how it’s built. Bonus: Tools and
+      resources to use in your MR apps.
+  -
+    slot: 23
+    speaker_id:
+    title: TBA
+    extract: >
+      TBA
+  -
+    slot: 24
+    speaker_id: gant-laborde
+    title: Join the Revolution
+    extract: >
+      ode changes lives.  With the advancement of AI, it's time to strap in and get ready for the new ride.  As
+      developers, we're hitting a new gear in what machines can do, and more importantly, what we say they will do.
+      Here's a story of creating an indecent content checker, NSFW JS.  The story of the limitations, expectations, and
+      joy of creating an open source project that utilizes Machine Learning to help do something useful at scale.
+      Discover the power of tomorrow's technology.
