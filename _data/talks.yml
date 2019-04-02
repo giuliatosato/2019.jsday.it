@@ -80,16 +80,9 @@ list:
   -
     slot: "7"
     speaker_id:
-      - alex-hinson
-    title: Rapid Cross-Platform AR Development with React Native
+    title: TBA
     extract: >
-      Augmented Reality's popularity is growing at an ever increasing rate, and it might seem as if native iOS and
-      Android developers are the only ones who have the skills to keep up. Fortunately, a platform called Viro was
-      created to enable web and mobile developers to develop cross-platform AR/VR experiences through the React Native
-      framework. We'll take a brief look at what AR is and how it works, and then take a deep dive into Viro and
-      everything it provides to get you moving rapidly with AR development. We'll focus on a few very interesting pieces
-      that Viro provides, such as 3D models, portals, image recognition, and real life object recognition. By the end of
-      this session, you will have the skills and inspiration to start working with AR immediately!
+      TBA
   -
     slot: "8"
     speaker_id:
@@ -245,9 +238,16 @@ list:
   -
     slot: "23"
     speaker_id:
-    title: TBA
+      - alex-hinson
+    title: Rapid Cross-Platform AR Development with React Native
     extract: >
-      TBA
+      Augmented Reality's popularity is growing at an ever increasing rate, and it might seem as if native iOS and
+      Android developers are the only ones who have the skills to keep up. Fortunately, a platform called Viro was
+      created to enable web and mobile developers to develop cross-platform AR/VR experiences through the React Native
+      framework. We'll take a brief look at what AR is and how it works, and then take a deep dive into Viro and
+      everything it provides to get you moving rapidly with AR development. We'll focus on a few very interesting pieces
+      that Viro provides, such as 3D models, portals, image recognition, and real life object recognition. By the end of
+      this session, you will have the skills and inspiration to start working with AR immediately!
   -
     slot: "24"
     speaker_id: gant-laborde
