@@ -13,6 +13,9 @@ diamond:
 platinum:
   list:
     -
+      url: https://www.musement.com/?utm_source=jsday
+      image: musement.svg
+    -
       url: https://www.workwave.com/?utm_source=jsday
       image: workwave.svg
 
