@@ -1,16 +1,9 @@
-{{ include }}<br>
 {% for talk in site.data.talks.list %}
-  {{ talk.slot|integer }} == {{ include.slot|integer }}?<br>
-  {% if talk.slot|string === include.slot|string %}
+  {% if talk.slot == include.slot %}
     {% assign title = talk.title %}
     {% assign speaker_id = talk.speaker_id %}
     {% assign talk_slot = talk.slot %}
-    {{ title }} | {{ speaker_id }} | {{ talk_slot }}<br><br>
     {% break %}
-  {% else %}
-    {% assign title = "" %}
-    {% assign speaker_id = "" %}
-    {% assign talk_slot = "" %}
   {% endif %}
 {% endfor %}
 
