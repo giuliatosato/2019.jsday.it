@@ -134,7 +134,7 @@ list:
     image: ju-liu.jpg
     first_name: Ju
     last_name: Liu
-    twitter:
+    twitter: arkh4m
   -
     id: giamir-buoncristiani
     description: >
@@ -149,7 +149,7 @@ list:
     image: rufus-raghunath.jpg
     first_name: Rufus
     last_name: Raghunath
-    twitter:
+    twitter: rufusraghunath
   -
     id: trishul-goel
     description: >
