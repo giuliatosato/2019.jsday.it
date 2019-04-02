@@ -24,6 +24,8 @@ gold:
 
 silver:
   list:
+    - url: https://www.alwaysdata.com/en/?utm_source=jsday
+      image: alwaysdata.svg
     -
       url: https://balsamiq.com/?utm_source=jsday
       image: balsamiq.svg
@@ -51,6 +53,8 @@ bronze:
 
 diversity:
   list:
+    - url: https://www.alwaysdata.com/en/?utm_source=jsday
+      image: alwaysdata.svg
     -
       url: https://cloudinary.com/?utm_source=jsday
       image: cloudinary.svg
