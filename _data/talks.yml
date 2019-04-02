@@ -108,7 +108,7 @@ list:
     slot: "10"
     speaker_id:
       - diego-rodriguez
-    title: Scaling Node.js and unblocking the event-loop
+    title: Scaling Node.js and unblocking the Event Loop
     extract: >
       Don’t you hate it when your process is stuck processing 200k rows and other requests are not processed?!
       Outrageous! But there’s a new and simple way of preventing this. Diego built sr so you can keep the modules you

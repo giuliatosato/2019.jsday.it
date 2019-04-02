@@ -17,6 +17,14 @@ list:
     last_name: Laborde
     twitter: gantlaborde
   -
+    id: elianne-schutze
+    description: >
+      Originally from Nicaragua, Eli is a London-based web engineer, speaker and community organiser. She is currently helping make banking better for everyone at Monzo and occasionally helps teach underrepresented minorities to code. When she's not working you can probably find her at meetups, conferences or on Twitter.
+    image: elianne-schutze.jpg
+    first_name: Elianne
+    last_name: Schutze
+    twitter: elibelly
+  -
     id: alessandro-cinelli
     description: >
       Alessandro Cinelli (a.k.a. cirpo) is currently working in London as DX Engineering Manager at DAZN. He loves playing with programming languages and give back to the community. These days he is busy co-organizing tech events with @WEBdeLDN in London.
