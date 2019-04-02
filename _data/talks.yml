@@ -10,7 +10,7 @@
 
 list:
   -
-    slot: 2
+    slot: "2"
     speaker_id:
       - alessandro-cinelli
     title: Dear JavaScript
@@ -22,7 +22,7 @@ list:
       writing more idiomatic and consistent JS code, learning from the mistakes he made and that he still witness every
       time he sees other devs start using it.
   -
-    slot: 3
+    slot: "3"
     speaker_id:
       - ju-liu
     title: Fearless Refactoring in Elm
@@ -36,7 +36,7 @@ list:
       help us make this sort of changes in a confident and predictable way. At the end of the talk, you will have a good
       understanding of how Elm works and what advantages it can bring to your toolset.
   -
-    slot: 4
+    slot: "4"
     speaker_id:
       - max-gallo
     title: Reinventing RxJS
@@ -47,7 +47,7 @@ list:
       Subscriptions and Operator, then we'll introduce Schedulers and how they're used in RxJS. If you fancy Reactive
       Programming or simply you want to learn something new then... this talk is for you!
   -
-    slot: 5
+    slot: "5"
     speaker_id:
       - anna-backs
       - christina-zenzes
@@ -63,7 +63,7 @@ list:
       building automation or even JavaScript - the talk focuses on our experiences, our lessons learned and our
       architecture on a higher level, and does not go into technical details.
   -
-    slot: 6
+    slot: "6"
     speaker_id:
       - elianne-schutze
     title: Think globally, act locally with i18n on the web
@@ -72,7 +72,7 @@ list:
       half of the world’s population online, internationalisation is as relevant as ever! Let’s explore how i18n gets
       made on the web and what we should keep in mind or avoid when making the web more accessible to the world.
   -
-    slot: 7
+    slot: "7"
     speaker_id:
       - alex-hinson
     title: Rapid Cross-Platform AR Development with React Native
@@ -85,7 +85,7 @@ list:
       that Viro provides, such as 3D models, portals, image recognition, and real life object recognition. By the end of
       this session, you will have the skills and inspiration to start working with AR immediately!
   -
-    slot: 8
+    slot: "8"
     speaker_id:
       - rodrigo-pombo
     title: Build your own React
@@ -93,7 +93,7 @@ list:
       How does React really work? Let's find out. We'll write a simplified version of React from scratch, based on the
       real source code, including: jsx, fibers, reconciliation, hooks, and more.
   -
-    slot: 9
+    slot: "9"
     speaker_id:
       - patrycjusz-szydlo
     title: Web performance monitoring - from A to Z
@@ -105,7 +105,7 @@ list:
       presentation we will work on real case - all the examples will be based on the experience of frontend team in the
       biggest polish job board - pracuj.pl.
   -
-    slot: 10
+    slot: "10"
     speaker_id:
       - diego-rodriguez
     title: Scaling Node.js and unblocking the event-loop
@@ -114,13 +114,13 @@ list:
       Outrageous! But there’s a new and simple way of preventing this. Diego built sr so you can keep the modules you
       import in another process and prevent this scenarios!
   -
-    slot: 11
+    slot: "11"
     speaker_id:
     title: TBA
     extract: >
       TBA
   -
-    slot: 12
+    slot: "12"
     speaker_id:
       - tony-edwards
     title: Beats, Rhymes and Unit Tests
@@ -137,13 +137,13 @@ list:
       iteration of the app is accompanied by a set of unit tests. The final unit test is executed live, resulting in
       a crescendo you won’t want to miss.
   -
-    slot: 13
+    slot: "13"
     speaker_id:
     title: TBA
     extract: >
       TBA
   -
-    slot: 14
+    slot: "14"
     speaker_id:
       - francesco-strazzullo
     title: A DIY guide to building your own Rendering Engine
@@ -152,7 +152,7 @@ list:
       DOM elements without any kind of Framework? During the talk, we will analyze what are the challenges and the
       solutions of creating a complete frameworkless rendering engine.
   -
-    slot: 15
+    slot: "15"
     speaker_id:
       - matthias-dugue
     title: "WebAssembly: Browser is now a real virtual machine"
@@ -166,7 +166,7 @@ list:
       This talk takes place in a new series named #StartFromNowhere: let's start from front-end developers skills, and
       deep dive into a new technology. In 45', let's learn the basics.
   -
-    slot: 16
+    slot: "16"
     speaker_id:
       - trishul-goel
     title: PWAs on steroids
@@ -175,7 +175,7 @@ list:
       like offline availability, push notifications etc. Now with modern web APIs, PWAs are beyond the browsers; in
       Hardwares. Consider turning bulb on/off with your PWA, sounds cool? Lets learn how to, in this talk!
   -
-    slot: 17
+    slot: "17"
     speaker_id:
       - giamir-buoncristiani
       - rufus-raghunath
@@ -191,7 +191,7 @@ list:
       provide a framework for thinking about how much future change you’ll need to account
       for. *evolutionaryarchitecture.com
   -
-    slot: 18
+    slot: "18"
     speaker_id:
       - oleksandr-tryshchenko
     title: The journey through the hybrid mobile apps with JS
@@ -204,25 +204,25 @@ list:
       and warn regarding the possible pitfalls. We'll look into the React Native, Cordova, PWA's and compare them with
       native applications looking into the experience we've got working with them on real projects.
   -
-    slot: 19
+    slot: "19"
     speaker_id:
     title: TBA
     extract: >
       TBA
   -
-    slot: 20
+    slot: "20"
     speaker_id:
     title: TBA
     extract: >
       TBA
   -
-    slot: 21
+    slot: "21"
     speaker_id:
     title: TBA
     extract: >
       TBA
   -
-    slot: 22
+    slot: "22"
     speaker_id:
       - srushtika-neelakantam
     title: "Mixed Reality: Zero to Hero in 25 min"
@@ -234,13 +234,13 @@ list:
       be accessed on the web. We’ll close the talk with a demo and behind-the-scenes of how it’s built. Bonus: Tools and
       resources to use in your MR apps.
   -
-    slot: 23
+    slot: "23"
     speaker_id:
     title: TBA
     extract: >
       TBA
   -
-    slot: 24
+    slot: "24"
     speaker_id: gant-laborde
     title: Join the Revolution
     extract: >
