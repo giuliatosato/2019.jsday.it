@@ -9,6 +9,14 @@
 #    twitter:
 list:
   -
+    id: tara-ojo
+    description: >
+      Tara is a software engineer at Europe’s leading online social learning platform, FutureLearn. She’s a STEM ambassador and is passionate about encouraging and inspiring young people from diverse backgrounds to consider a career in tech. Tara is supported by Mozilla's Tech speaker programme and outside of work you’ll find her supporting her local church.
+    image: tara-ojo.jpg
+    first_name: Tara
+    last_name: Ojo
+    twitter: tara_ojo
+  -
     id: gant-laborde
     description: >
       Gant Laborde is a software consultant, adjunct professor, published author, and award-winning speaker. He volunteers as a mentor, an “open sourcerer”, and aspires to one day become a mad scientist. His JavaScript prowess is prevalent through blogs, videos, and maintainer status in popular repositories. Follow Gant’s adventures at http://gantlaborde.com/

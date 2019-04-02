@@ -121,10 +121,13 @@ list:
       import in another process and prevent this scenarios!
   -
     slot: "11"
-    speaker_id:
-    title: TBA
+    speaker_id: tara-ojo
+    title: Streamline your code with webpack
     extract: >
-      TBA
+      Webpack has been around for a while, people talk about it like it does anything and everything! It can’t! But, it
+      can be a huge benefit to the code you write with your team and thus, improve the performance of your web
+      applications. We just need the right configuration. But how does it do this? By the end of this talk you’ll have a
+      better understanding of how webpack works, then you can decide if you want to use it!
   -
     slot: "12"
     speaker_id:
