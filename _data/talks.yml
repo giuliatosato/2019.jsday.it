@@ -179,19 +179,9 @@ list:
   -
     slot: "17"
     speaker_id:
-      - giamir-buoncristiani
-      - rufus-raghunath
-    title: "Evolutionary UI: Change as a first-class citizen in the modern frontend world"
+    title: TBA
     extract: >
-      Allowing for change is especially important when designing your frontend applications, where high user
-      expectations meet the fast-paced JavaScript ecosystem. For example, have you ever tried migrating from Angular to
-      React while hitting your deliverables and without compromising performance? Change is intimidating. In this talk,
-      we will show how the principles of evolutionary architecture* can be applied to UI to prioritize changeability.
-      We’ll consider several approaches to making a modern UI application more evolvable, such as the micro-frontends
-      pattern, and examine specific “fitness functions” that will keep you and your team honest to your evolvability
-      goals. We’ll also discuss the tradeoffs you make when you choose a more evolutionary frontend architecture, and
-      provide a framework for thinking about how much future change you’ll need to account
-      for. *evolutionaryarchitecture.com
+      TBA
   -
     slot: "18"
     speaker_id:
@@ -208,9 +198,19 @@ list:
   -
     slot: "19"
     speaker_id:
-    title: TBA
+      - giamir-buoncristiani
+      - rufus-raghunath
+    title: "Evolutionary UI: Change as a first-class citizen in the modern frontend world"
     extract: >
-      TBA
+      Allowing for change is especially important when designing your frontend applications, where high user
+      expectations meet the fast-paced JavaScript ecosystem. For example, have you ever tried migrating from Angular to
+      React while hitting your deliverables and without compromising performance? Change is intimidating. In this talk,
+      we will show how the principles of evolutionary architecture* can be applied to UI to prioritize changeability.
+      We’ll consider several approaches to making a modern UI application more evolvable, such as the micro-frontends
+      pattern, and examine specific “fitness functions” that will keep you and your team honest to your evolvability
+      goals. We’ll also discuss the tradeoffs you make when you choose a more evolutionary frontend architecture, and
+      provide a framework for thinking about how much future change you’ll need to account
+      for. *evolutionaryarchitecture.com
   -
     slot: "20"
     speaker_id:
