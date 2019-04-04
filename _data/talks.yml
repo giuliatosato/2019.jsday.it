@@ -30,30 +30,18 @@ list:
   -
     slot: "3"
     speaker_id:
-      - ju-liu
-    title: Fearless Refactoring in Elm
+      - oleksandr-tryshchenko
+    title: The journey through the hybrid mobile apps with JS
     extract: >
-      When we take on a big refactoring, we often get this uncomfortable feeling of doubt. A little demon appears on our
-      shoulder and asks "Did you remember to make all the changes? Are you sure? Sure sure?". We check the code again,
-      run the tests and all is passing. Great. But that demon is still there, still nagging "Are you super sure? The
-      tests were passing last time too...". In this talk, we will see how Elm can free us from those moments of self
-      doubt. We will start with a short introduction of the language, explaining its design and philosophy. We will
-      then start a full-on refactoring in the biggest Elm codebase in the world. We will see how the Elm compiler can
-      help us make this sort of changes in a confident and predictable way. At the end of the talk, you will have a good
-      understanding of how Elm works and what advantages it can bring to your toolset.
+      Four years ago I started a wonderful adventure: I tried to build my first mobile application with JavaScript. The
+      first encounter was ugly and I kind of accepted the fact that hybrid mobile applications are cheap, slow and
+      limited brothers of native ones (I was mistaken!). However, due to financial efficiency, I was bumping into it
+      again and again. I tried all popular JavaScript solution for Hybrid Mobile apps and ended my journey through the
+      hybrid mobile applications with a happy end. I want to share with you the recipes we've learned, tell my story
+      and warn regarding the possible pitfalls. We'll look into the React Native, Cordova, PWA's and compare them with
+      native applications looking into the experience we've got working with them on real projects.
   -
     slot: "4"
-    speaker_id:
-      - max-gallo
-    title: Reinventing RxJS
-    extract: >
-      RxJS has become almost a standard in the emerging reactive Front-End world. If you're not using it right now, you
-      probably played with a few operators. In the talk we're going to rewrite RxJS from scratch, seeing behind the
-      curtains which are the core components and the ideas of the library. You'll see how to build Observables,
-      Subscriptions and Operator, then we'll introduce Schedulers and how they're used in RxJS. If you fancy Reactive
-      Programming or simply you want to learn something new then... this talk is for you!
-  -
-    slot: "5"
     speaker_id:
       - anna-backs
       - christina-zenzes
@@ -69,20 +57,38 @@ list:
       building automation or even JavaScript - the talk focuses on our experiences, our lessons learned and our
       architecture on a higher level, and does not go into technical details.
   -
+    slot: "5"
+    speaker_id:
+      - diego-rodriguez
+    title: Scaling Node.js and unblocking the Event Loop
+    extract: >
+      Don’t you hate it when your process is stuck processing 200k rows and other requests are not processed?!
+      Outrageous! But there’s a new and simple way of preventing this. Diego built sr so you can keep the modules you
+      import in another process and prevent this scenarios!
+  -
     slot: "6"
     speaker_id:
-      - elianne-schutze
-    title: Think globally, act locally with i18n on the web
+      - max-gallo
+    title: Reinventing RxJS
     extract: >
-      While about 51% of the world’s websites are in English, only about 25% of web users are English speakers. With
-      half of the world’s population online, internationalisation is as relevant as ever! Let’s explore how i18n gets
-      made on the web and what we should keep in mind or avoid when making the web more accessible to the world.
+      RxJS has become almost a standard in the emerging reactive Front-End world. If you're not using it right now, you
+      probably played with a few operators. In the talk we're going to rewrite RxJS from scratch, seeing behind the
+      curtains which are the core components and the ideas of the library. You'll see how to build Observables,
+      Subscriptions and Operator, then we'll introduce Schedulers and how they're used in RxJS. If you fancy Reactive
+      Programming or simply you want to learn something new then... this talk is for you!
   -
     slot: "7"
     speaker_id:
-    title: TBA
+      - alex-hinson
+    title: Rapid Cross-Platform AR Development with React Native
     extract: >
-      TBA
+      Augmented Reality's popularity is growing at an ever increasing rate, and it might seem as if native iOS and
+      Android developers are the only ones who have the skills to keep up. Fortunately, a platform called Viro was
+      created to enable web and mobile developers to develop cross-platform AR/VR experiences through the React Native
+      framework. We'll take a brief look at what AR is and how it works, and then take a deep dive into Viro and
+      everything it provides to get you moving rapidly with AR development. We'll focus on a few very interesting pieces
+      that Viro provides, such as 3D models, portals, image recognition, and real life object recognition. By the end of
+      this session, you will have the skills and inspiration to start working with AR immediately!
   -
     slot: "8"
     speaker_id:
@@ -106,21 +112,18 @@ list:
   -
     slot: "10"
     speaker_id:
-      - diego-rodriguez
-    title: Scaling Node.js and unblocking the Event Loop
+    title: TBA
     extract: >
-      Don’t you hate it when your process is stuck processing 200k rows and other requests are not processed?!
-      Outrageous! But there’s a new and simple way of preventing this. Diego built sr so you can keep the modules you
-      import in another process and prevent this scenarios!
+      TBA
   -
     slot: "11"
-    speaker_id: tara-ojo
-    title: Streamline your code with webpack
+    speaker_id:
+      - elianne-schutze
+    title: Think globally, act locally with i18n on the web
     extract: >
-      Webpack has been around for a while, people talk about it like it does anything and everything! It can’t! But, it
-      can be a huge benefit to the code you write with your team and thus, improve the performance of your web
-      applications. We just need the right configuration. But how does it do this? By the end of this talk you’ll have a
-      better understanding of how webpack works, then you can decide if you want to use it!
+      While about 51% of the world’s websites are in English, only about 25% of web users are English speakers. With
+      half of the world’s population online, internationalisation is as relevant as ever! Let’s explore how i18n gets
+      made on the web and what we should keep in mind or avoid when making the web more accessible to the world.
   -
     slot: "12"
     speaker_id:
@@ -140,10 +143,14 @@ list:
       a crescendo you won’t want to miss.
   -
     slot: "13"
-    speaker_id:
-    title: TBA
+    speaker_id: gant-laborde
+    title: Join the Revolution
     extract: >
-      TBA
+      Code changes lives.  With the advancement of AI, it's time to strap in and get ready for the new ride.  As
+      developers, we're hitting a new gear in what machines can do, and more importantly, what we say they will do.
+      Here's a story of creating an indecent content checker, NSFW JS.  The story of the limitations, expectations, and
+      joy of creating an open source project that utilizes Machine Learning to help do something useful at scale.
+      Discover the power of tomorrow's technology.
   -
     slot: "14"
     speaker_id:
@@ -178,23 +185,27 @@ list:
       Hardwares. Consider turning bulb on/off with your PWA, sounds cool? Lets learn how to, in this talk!
   -
     slot: "17"
-    speaker_id:
-    title: TBA
+    speaker_id: marco-cedaro
+    title: React refactoring, off the hook(s)!
     extract: >
-      TBA
+      React Hooks are going to change the way we write React components and apps. Let's explore together a real world
+      refactoring of an app with hooks, introducing the concept and exploring how the mental model of components has to
+      evolve breaking the dichotomy of stateful class vs stateless "functional" components. We are going to deep dive in
+      the code of the app, a quite busy stateful component, looking at how we could use hooks to refactor it.
   -
     slot: "18"
     speaker_id:
-      - oleksandr-tryshchenko
-    title: The journey through the hybrid mobile apps with JS
+      - ju-liu
+    title: Fearless Refactoring in Elm
     extract: >
-      Four years ago I started a wonderful adventure: I tried to build my first mobile application with JavaScript. The
-      first encounter was ugly and I kind of accepted the fact that hybrid mobile applications are cheap, slow and
-      limited brothers of native ones (I was mistaken!). However, due to financial efficiency, I was bumping into it
-      again and again. I tried all popular JavaScript solution for Hybrid Mobile apps and ended my journey through the
-      hybrid mobile applications with a happy end. I want to share with you the recipes we've learned, tell my story
-      and warn regarding the possible pitfalls. We'll look into the React Native, Cordova, PWA's and compare them with
-      native applications looking into the experience we've got working with them on real projects.
+      When we take on a big refactoring, we often get this uncomfortable feeling of doubt. A little demon appears on our
+      shoulder and asks "Did you remember to make all the changes? Are you sure? Sure sure?". We check the code again,
+      run the tests and all is passing. Great. But that demon is still there, still nagging "Are you super sure? The
+      tests were passing last time too...". In this talk, we will see how Elm can free us from those moments of self
+      doubt. We will start with a short introduction of the language, explaining its design and philosophy. We will
+      then start a full-on refactoring in the biggest Elm codebase in the world. We will see how the Elm compiler can
+      help us make this sort of changes in a confident and predictable way. At the end of the talk, you will have a good
+      understanding of how Elm works and what advantages it can bring to your toolset.
   -
     slot: "19"
     speaker_id:
@@ -237,24 +248,16 @@ list:
       resources to use in your MR apps.
   -
     slot: "23"
-    speaker_id:
-      - alex-hinson
-    title: Rapid Cross-Platform AR Development with React Native
+    speaker_id: tara-ojo
+    title: Streamline your code with webpack
     extract: >
-      Augmented Reality's popularity is growing at an ever increasing rate, and it might seem as if native iOS and
-      Android developers are the only ones who have the skills to keep up. Fortunately, a platform called Viro was
-      created to enable web and mobile developers to develop cross-platform AR/VR experiences through the React Native
-      framework. We'll take a brief look at what AR is and how it works, and then take a deep dive into Viro and
-      everything it provides to get you moving rapidly with AR development. We'll focus on a few very interesting pieces
-      that Viro provides, such as 3D models, portals, image recognition, and real life object recognition. By the end of
-      this session, you will have the skills and inspiration to start working with AR immediately!
+      Webpack has been around for a while, people talk about it like it does anything and everything! It can’t! But, it
+      can be a huge benefit to the code you write with your team and thus, improve the performance of your web
+      applications. We just need the right configuration. But how does it do this? By the end of this talk you’ll have a
+      better understanding of how webpack works, then you can decide if you want to use it!
   -
     slot: "24"
-    speaker_id: gant-laborde
-    title: Join the Revolution
+    speaker_id:
+    title: TBA
     extract: >
-      Code changes lives.  With the advancement of AI, it's time to strap in and get ready for the new ride.  As
-      developers, we're hitting a new gear in what machines can do, and more importantly, what we say they will do.
-      Here's a story of creating an indecent content checker, NSFW JS.  The story of the limitations, expectations, and
-      joy of creating an open source project that utilizes Machine Learning to help do something useful at scale.
-      Discover the power of tomorrow's technology.
+      TBA

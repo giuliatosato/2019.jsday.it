@@ -9,6 +9,14 @@
 #    twitter:
 list:
   -
+    id: marco-cedaro
+    description: >
+      Webmaster before it was cool. Pixel pusher, javascript-something, conference organiser, father of two, but mostly known for yelling at clouds. Tech Lead at Condé Nast International.
+    image: marco-cedaro.jpg
+    first_name: Marco
+    last_name: Cedaro
+    twitter: cedmax
+  -
     id: tara-ojo
     description: >
       Tara is a software engineer at Europe’s leading online social learning platform, FutureLearn. She’s a STEM ambassador and is passionate about encouraging and inspiring young people from diverse backgrounds to consider a career in tech. Tara is supported by Mozilla's Tech speaker programme and outside of work you’ll find her supporting her local church.
