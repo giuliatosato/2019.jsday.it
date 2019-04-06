@@ -92,11 +92,15 @@ list:
   -
     slot: "8"
     speaker_id:
-      - rodrigo-pombo
-    title: Build your own React
+      - srushtika-neelakantam
+    title: "Mixed Reality: Zero to Hero in 25 min"
     extract: >
-      How does React really work? Let's find out. We'll write a simplified version of React from scratch, based on the
-      real source code, including: jsx, fibers, reconciliation, hooks, and more.
+      This talk will be a quick run-through of the Mixed Reality (MR) concepts, i.e both Virtual Reality (VR) and
+      Augmented Reality (AR), but specifically from a web developer’s perspective. Even though MR is graphics-heavy,
+      modern libraries like WebVR, AFrame VR and Web XR make it really easy for a web developer working with HTML and
+      JavaScript, to follow through and use existing tools to start building useful Mixed Reality applications that can
+      be accessed on the web. We’ll close the talk with a demo and behind-the-scenes of how it’s built. Bonus: Tools and
+      resources to use in your MR apps.
   -
     slot: "9"
     speaker_id:
@@ -154,12 +158,12 @@ list:
   -
     slot: "14"
     speaker_id:
-      - francesco-strazzullo
-    title: A DIY guide to building your own Rendering Engine
+      - trishul-goel
+    title: PWAs on steroids
     extract: >
-      Rendering is one of the most important parts of any frontend application. But what happens when we need to render
-      DOM elements without any kind of Framework? During the talk, we will analyze what are the challenges and the
-      solutions of creating a complete frameworkless rendering engine.
+      PWAs bring the best of both mobile and native apps to user. PWAs equipped with service workers provide features
+      like offline availability, push notifications etc. Now with modern web APIs, PWAs are beyond the browsers; in
+      Hardwares. Consider turning bulb on/off with your PWA, sounds cool? Lets learn how to, in this talk!
   -
     slot: "15"
     speaker_id:
@@ -177,12 +181,12 @@ list:
   -
     slot: "16"
     speaker_id:
-      - trishul-goel
-    title: PWAs on steroids
+      - francesco-strazzullo
+    title: A DIY guide to building your own Rendering Engine
     extract: >
-      PWAs bring the best of both mobile and native apps to user. PWAs equipped with service workers provide features
-      like offline availability, push notifications etc. Now with modern web APIs, PWAs are beyond the browsers; in
-      Hardwares. Consider turning bulb on/off with your PWA, sounds cool? Lets learn how to, in this talk!
+      Rendering is one of the most important parts of any frontend application. But what happens when we need to render
+      DOM elements without any kind of Framework? During the talk, we will analyze what are the challenges and the
+      solutions of creating a complete frameworkless rendering engine.
   -
     slot: "17"
     speaker_id: marco-cedaro
@@ -195,8 +199,29 @@ list:
   -
     slot: "18"
     speaker_id:
-      - ju-liu
-    title: Fearless Refactoring in Elm
+      - rodrigo-pombo
+    title: Build your own React
+    extract: >
+      How does React really work? Let's find out. We'll write a simplified version of React from scratch, based on the
+      real source code, including: jsx, fibers, reconciliation, hooks, and more.
+  -
+    slot: "19"
+    speaker_id:
+      - alex-hinson
+    title: Rapid Cross-Platform AR Development with React Native
+    extract: >
+      Augmented Reality's popularity is growing at an ever increasing rate, and it might seem as if native iOS and
+      Android developers are the only ones who have the skills to keep up. Fortunately, a platform called Viro was
+      created to enable web and mobile developers to develop cross-platform AR/VR experiences through the React Native
+      framework. We'll take a brief look at what AR is and how it works, and then take a deep dive into Viro and
+      everything it provides to get you moving rapidly with AR development. We'll focus on a few very interesting pieces
+      that Viro provides, such as 3D models, portals, image recognition, and real life object recognition. By the end of
+      this session, you will have the skills and inspiration to start working with AR immediately!
+  -
+    slot: "20"
+    speaker_id:
+      - oleksandr-tryshchenko
+    title: The journey through the hybrid mobile apps with JS
     extract: >
       When we take on a big refactoring, we often get this uncomfortable feeling of doubt. A little demon appears on our
       shoulder and asks "Did you remember to make all the changes? Are you sure? Sure sure?". We check the code again,
@@ -207,7 +232,7 @@ list:
       help us make this sort of changes in a confident and predictable way. At the end of the talk, you will have a good
       understanding of how Elm works and what advantages it can bring to your toolset.
   -
-    slot: "19"
+    slot: "21"
     speaker_id:
       - giamir-buoncristiani
       - rufus-raghunath
@@ -223,38 +248,17 @@ list:
       provide a framework for thinking about how much future change you’ll need to account
       for. *evolutionaryarchitecture.com
   -
-    slot: "20"
-    speaker_id:
-    title: TBA
-    extract: >
-      TBA
-  -
-    slot: "21"
-    speaker_id:
-    title: TBA
-    extract: >
-      TBA
-  -
     slot: "22"
     speaker_id:
-      - srushtika-neelakantam
-    title: "Mixed Reality: Zero to Hero in 25 min"
+    title: TBA
     extract: >
-      This talk will be a quick run-through of the Mixed Reality (MR) concepts, i.e both Virtual Reality (VR) and
-      Augmented Reality (AR), but specifically from a web developer’s perspective. Even though MR is graphics-heavy,
-      modern libraries like WebVR, AFrame VR and Web XR make it really easy for a web developer working with HTML and
-      JavaScript, to follow through and use existing tools to start building useful Mixed Reality applications that can
-      be accessed on the web. We’ll close the talk with a demo and behind-the-scenes of how it’s built. Bonus: Tools and
-      resources to use in your MR apps.
+      TBA
   -
     slot: "23"
-    speaker_id: tara-ojo
-    title: Streamline your code with webpack
+    speaker_id:
+    title: TBA
     extract: >
-      Webpack has been around for a while, people talk about it like it does anything and everything! It can’t! But, it
-      can be a huge benefit to the code you write with your team and thus, improve the performance of your web
-      applications. We just need the right configuration. But how does it do this? By the end of this talk you’ll have a
-      better understanding of how webpack works, then you can decide if you want to use it!
+      TBA
   -
     slot: "24"
     speaker_id:
