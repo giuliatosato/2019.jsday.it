@@ -92,36 +92,6 @@ list:
   -
     slot: "8"
     speaker_id:
-      - srushtika-neelakantam
-    title: "Mixed Reality: Zero to Hero in 25 min"
-    extract: >
-      This talk will be a quick run-through of the Mixed Reality (MR) concepts, i.e both Virtual Reality (VR) and
-      Augmented Reality (AR), but specifically from a web developer’s perspective. Even though MR is graphics-heavy,
-      modern libraries like WebVR, AFrame VR and Web XR make it really easy for a web developer working with HTML and
-      JavaScript, to follow through and use existing tools to start building useful Mixed Reality applications that can
-      be accessed on the web. We’ll close the talk with a demo and behind-the-scenes of how it’s built. Bonus: Tools and
-      resources to use in your MR apps.
-  -
-    slot: "9"
-    speaker_id:
-      - patrycjusz-szydlo
-    title: Web performance monitoring - from A to Z
-    extract: >
-      Web perfomance monitoring isn't just another kind of KPI, it's much more. Regarding this, we are going to focus on
-      both - theory and practice. In the first place we figure out what we can measure and why it is worth doing.
-      Secondly, based on live coding session with sitespeed, we are going to quickly and efficiently obtain a lot of
-      metrics. At the end we will see how to preapre "ready to use" cluster with historical data. During the whole
-      presentation we will work on real case - all the examples will be based on the experience of frontend team in the
-      biggest polish job board - pracuj.pl.
-  -
-    slot: "10"
-    speaker_id:
-    title: TBA
-    extract: >
-      TBA
-  -
-    slot: "11"
-    speaker_id:
       - elianne-schutze
     title: Think globally, act locally with i18n on the web
     extract: >
@@ -129,7 +99,23 @@ list:
       half of the world’s population online, internationalisation is as relevant as ever! Let’s explore how i18n gets
       made on the web and what we should keep in mind or avoid when making the web more accessible to the world.
   -
-    slot: "12"
+    slot: "9"
+    speaker_id:
+      - giamir-buoncristiani
+      - rufus-raghunath
+    title: "Evolutionary UI: Change as a first-class citizen in the modern frontend world"
+    extract: >
+      Allowing for change is especially important when designing your frontend applications, where high user
+      expectations meet the fast-paced JavaScript ecosystem. For example, have you ever tried migrating from Angular to
+      React while hitting your deliverables and without compromising performance? Change is intimidating. In this talk,
+      we will show how the principles of evolutionary architecture* can be applied to UI to prioritize changeability.
+      We’ll consider several approaches to making a modern UI application more evolvable, such as the micro-frontends
+      pattern, and examine specific “fitness functions” that will keep you and your team honest to your evolvability
+      goals. We’ll also discuss the tradeoffs you make when you choose a more evolutionary frontend architecture, and
+      provide a framework for thinking about how much future change you’ll need to account
+      for. *evolutionaryarchitecture.com
+  -
+    slot: "10"
     speaker_id:
       - tony-edwards
     title: Beats, Rhymes and Unit Tests
@@ -146,7 +132,7 @@ list:
       iteration of the app is accompanied by a set of unit tests. The final unit test is executed live, resulting in
       a crescendo you won’t want to miss.
   -
-    slot: "13"
+    slot: "11"
     speaker_id: gant-laborde
     title: Join the Revolution
     extract: >
@@ -156,7 +142,7 @@ list:
       joy of creating an open source project that utilizes Machine Learning to help do something useful at scale.
       Discover the power of tomorrow's technology.
   -
-    slot: "14"
+    slot: "12"
     speaker_id:
       - trishul-goel
     title: PWAs on steroids
@@ -164,6 +150,24 @@ list:
       PWAs bring the best of both mobile and native apps to user. PWAs equipped with service workers provide features
       like offline availability, push notifications etc. Now with modern web APIs, PWAs are beyond the browsers; in
       Hardwares. Consider turning bulb on/off with your PWA, sounds cool? Lets learn how to, in this talk!
+  -
+    slot: "13"
+    speaker_id: marco-cedaro
+    title: React refactoring, off the hook(s)!
+    extract: >
+      React Hooks are going to change the way we write React components and apps. Let's explore together a real world
+      refactoring of an app with hooks, introducing the concept and exploring how the mental model of components has to
+      evolve breaking the dichotomy of stateful class vs stateless "functional" components. We are going to deep dive in
+      the code of the app, a quite busy stateful component, looking at how we could use hooks to refactor it.
+  -
+    slot: "14"
+    speaker_id:
+      - francesco-strazzullo
+    title: A DIY guide to building your own Rendering Engine
+    extract: >
+      Rendering is one of the most important parts of any frontend application. But what happens when we need to render
+      DOM elements without any kind of Framework? During the talk, we will analyze what are the challenges and the
+      solutions of creating a complete frameworkless rendering engine.
   -
     slot: "15"
     speaker_id:
@@ -181,86 +185,55 @@ list:
   -
     slot: "16"
     speaker_id:
-      - francesco-strazzullo
-    title: A DIY guide to building your own Rendering Engine
-    extract: >
-      Rendering is one of the most important parts of any frontend application. But what happens when we need to render
-      DOM elements without any kind of Framework? During the talk, we will analyze what are the challenges and the
-      solutions of creating a complete frameworkless rendering engine.
-  -
-    slot: "17"
-    speaker_id: marco-cedaro
-    title: React refactoring, off the hook(s)!
-    extract: >
-      React Hooks are going to change the way we write React components and apps. Let's explore together a real world
-      refactoring of an app with hooks, introducing the concept and exploring how the mental model of components has to
-      evolve breaking the dichotomy of stateful class vs stateless "functional" components. We are going to deep dive in
-      the code of the app, a quite busy stateful component, looking at how we could use hooks to refactor it.
-  -
-    slot: "18"
-    speaker_id:
       - rodrigo-pombo
     title: Build your own React
     extract: >
       How does React really work? Let's find out. We'll write a simplified version of React from scratch, based on the
       real source code, including: jsx, fibers, reconciliation, hooks, and more.
   -
-    slot: "19"
+    slot: "17"
     speaker_id:
-      - alex-hinson
-    title: Rapid Cross-Platform AR Development with React Native
+      - srushtika-neelakantam
+    title: "Mixed Reality: Zero to Hero in 25 min"
     extract: >
-      Augmented Reality's popularity is growing at an ever increasing rate, and it might seem as if native iOS and
-      Android developers are the only ones who have the skills to keep up. Fortunately, a platform called Viro was
-      created to enable web and mobile developers to develop cross-platform AR/VR experiences through the React Native
-      framework. We'll take a brief look at what AR is and how it works, and then take a deep dive into Viro and
-      everything it provides to get you moving rapidly with AR development. We'll focus on a few very interesting pieces
-      that Viro provides, such as 3D models, portals, image recognition, and real life object recognition. By the end of
-      this session, you will have the skills and inspiration to start working with AR immediately!
+      This talk will be a quick run-through of the Mixed Reality (MR) concepts, i.e both Virtual Reality (VR) and
+      Augmented Reality (AR), but specifically from a web developer’s perspective. Even though MR is graphics-heavy,
+      modern libraries like WebVR, AFrame VR and Web XR make it really easy for a web developer working with HTML and
+      JavaScript, to follow through and use existing tools to start building useful Mixed Reality applications that can
+      be accessed on the web. We’ll close the talk with a demo and behind-the-scenes of how it’s built. Bonus: Tools and
+      resources to use in your MR apps.
   -
-    slot: "20"
+    slot: "18"
     speaker_id:
-      - oleksandr-tryshchenko
-    title: The journey through the hybrid mobile apps with JS
+      - ju-liu
+    title: "Fearless Refactoring in Elm"
     extract: >
       When we take on a big refactoring, we often get this uncomfortable feeling of doubt. A little demon appears on our
       shoulder and asks "Did you remember to make all the changes? Are you sure? Sure sure?". We check the code again,
       run the tests and all is passing. Great. But that demon is still there, still nagging "Are you super sure? The
       tests were passing last time too...". In this talk, we will see how Elm can free us from those moments of self
-      doubt. We will start with a short introduction of the language, explaining its design and philosophy. We will
-      then start a full-on refactoring in the biggest Elm codebase in the world. We will see how the Elm compiler can
-      help us make this sort of changes in a confident and predictable way. At the end of the talk, you will have a good
+      doubt. We will start with a short introduction of the language, explaining its design and philosophy. We will then
+      start a full-on refactoring in the biggest Elm codebase in the world. We will see how the Elm compiler can help us
+      make this sort of changes in a confident and predictable way. At the end of the talk, you will have a good
       understanding of how Elm works and what advantages it can bring to your toolset.
   -
+    slot: "19"
+    speaker_id:
+      - tara-ojo
+    title: Streamline your code with webpack
+    extract: >
+       Webpack has been around for a while, people talk about it like it does anything and everything! It can’t! But, it
+       can be a huge benefit to the code you write with your team and thus, improve the performance of your web
+       applications. We just need the right configuration. But how does it do this? By the end of this talk you’ll have
+       a better understanding of how webpack works, then you can decide if you want to use it!
+  -
+    slot: "20"
+    speaker_id:
+    title: TBA
+    extract: >
+      TBA
+  -
     slot: "21"
-    speaker_id:
-      - giamir-buoncristiani
-      - rufus-raghunath
-    title: "Evolutionary UI: Change as a first-class citizen in the modern frontend world"
-    extract: >
-      Allowing for change is especially important when designing your frontend applications, where high user
-      expectations meet the fast-paced JavaScript ecosystem. For example, have you ever tried migrating from Angular to
-      React while hitting your deliverables and without compromising performance? Change is intimidating. In this talk,
-      we will show how the principles of evolutionary architecture* can be applied to UI to prioritize changeability.
-      We’ll consider several approaches to making a modern UI application more evolvable, such as the micro-frontends
-      pattern, and examine specific “fitness functions” that will keep you and your team honest to your evolvability
-      goals. We’ll also discuss the tradeoffs you make when you choose a more evolutionary frontend architecture, and
-      provide a framework for thinking about how much future change you’ll need to account
-      for. *evolutionaryarchitecture.com
-  -
-    slot: "22"
-    speaker_id:
-    title: TBA
-    extract: >
-      TBA
-  -
-    slot: "23"
-    speaker_id:
-    title: TBA
-    extract: >
-      TBA
-  -
-    slot: "24"
     speaker_id:
     title: TBA
     extract: >
