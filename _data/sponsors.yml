@@ -13,6 +13,12 @@ diamond:
 platinum:
   list:
     -
+      url: https://infinite.red/?utm_source=jsday
+      image: infinitered.svg
+    -
+      url: https://www.lastminute.com/?utm_source=jsday
+      image: lastminute.svg
+    -
       url: https://www.musement.com/?utm_source=jsday
       image: musement.svg
     -
@@ -24,6 +30,9 @@ gold:
     -
       url: https://www.ideato.it/?utm_source=jsday
       image: ideato.svg
+    -
+      url: http://www.uala.it/
+      image: uala.svg
 
 silver:
   list:
@@ -38,6 +47,9 @@ silver:
     -
       url: https://www.facile.it/?utm_source=jsday
       image: facile.svg
+    -
+      url: https://www.fornacestudio.com/?utm_source=jsday
+      image: fornace.svg
     -
       url: https://labs.madisoft.it/frontend-developer/?utm_source=jsday
       image: madisoft.svg
