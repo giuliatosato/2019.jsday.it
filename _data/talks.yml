@@ -59,12 +59,15 @@ list:
   -
     slot: "5"
     speaker_id:
-      - diego-rodriguez
-    title: Scaling Node.js and unblocking the Event Loop
+      - srushtika-neelakantam
+    title: "Mixed Reality: Zero to Hero in 25 min"
     extract: >
-      Don’t you hate it when your process is stuck processing 200k rows and other requests are not processed?!
-      Outrageous! But there’s a new and simple way of preventing this. Diego built sr so you can keep the modules you
-      import in another process and prevent this scenarios!
+      This talk will be a quick run-through of the Mixed Reality (MR) concepts, i.e both Virtual Reality (VR) and
+      Augmented Reality (AR), but specifically from a web developer’s perspective. Even though MR is graphics-heavy,
+      modern libraries like WebVR, AFrame VR and Web XR make it really easy for a web developer working with HTML and
+      JavaScript, to follow through and use existing tools to start building useful Mixed Reality applications that can
+      be accessed on the web. We’ll close the talk with a demo and behind-the-scenes of how it’s built. Bonus: Tools and
+      resources to use in your MR apps.
   -
     slot: "6"
     speaker_id:
@@ -193,17 +196,24 @@ list:
   -
     slot: "17"
     speaker_id:
-      - srushtika-neelakantam
-    title: "Mixed Reality: Zero to Hero in 25 min"
+      - diego-rodriguez
+    title: Scaling Node.js and unblocking the Event Loop
     extract: >
-      This talk will be a quick run-through of the Mixed Reality (MR) concepts, i.e both Virtual Reality (VR) and
-      Augmented Reality (AR), but specifically from a web developer’s perspective. Even though MR is graphics-heavy,
-      modern libraries like WebVR, AFrame VR and Web XR make it really easy for a web developer working with HTML and
-      JavaScript, to follow through and use existing tools to start building useful Mixed Reality applications that can
-      be accessed on the web. We’ll close the talk with a demo and behind-the-scenes of how it’s built. Bonus: Tools and
-      resources to use in your MR apps.
+      Don’t you hate it when your process is stuck processing 200k rows and other requests are not processed?!
+      Outrageous! But there’s a new and simple way of preventing this. Diego built sr so you can keep the modules you
+      import in another process and prevent this scenarios!
   -
     slot: "18"
+    speaker_id:
+      - tara-ojo
+    title: Streamline your code with webpack
+    extract: >
+       Webpack has been around for a while, people talk about it like it does anything and everything! It can’t! But, it
+       can be a huge benefit to the code you write with your team and thus, improve the performance of your web
+       applications. We just need the right configuration. But how does it do this? By the end of this talk you’ll have
+       a better understanding of how webpack works, then you can decide if you want to use it!
+  -
+    slot: "19"
     speaker_id:
       - ju-liu
     title: "Fearless Refactoring in Elm"
@@ -217,23 +227,21 @@ list:
       make this sort of changes in a confident and predictable way. At the end of the talk, you will have a good
       understanding of how Elm works and what advantages it can bring to your toolset.
   -
-    slot: "19"
-    speaker_id:
-      - tara-ojo
-    title: Streamline your code with webpack
-    extract: >
-       Webpack has been around for a while, people talk about it like it does anything and everything! It can’t! But, it
-       can be a huge benefit to the code you write with your team and thus, improve the performance of your web
-       applications. We just need the right configuration. But how does it do this? By the end of this talk you’ll have
-       a better understanding of how webpack works, then you can decide if you want to use it!
-  -
     slot: "20"
-    speaker_id:
-    title: TBA
+    speaker_id: geisy-domiciano
+    title: Ways to architecture your vue/nuxt app
     extract: >
-      TBA
+      As developers, when we start with vue.js or nuxt.js we see ourselves in a world full of opportunities and
+      decisions, so we never know which way is the best to go forward with the project. This talk will have the purpose
+      of present few different ways that you can architecture your application for small, medium and big projects and
+      then think about scalability.
   -
     slot: "21"
+    speaker_id:
+    title: '("Fearless Refactoring in Elm" continued)'
+    extract: ""
+  -
+    slot: "22"
     speaker_id:
     title: TBA
     extract: >

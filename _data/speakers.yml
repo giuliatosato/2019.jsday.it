@@ -9,6 +9,13 @@
 #    twitter:
 list:
   -
+    id: geisy-domiciano
+    description:
+    image: geisy-domiciano.jpg
+    first_name: Geisy
+    last_name: Domiciano
+    twitter: geisydomiciano
+  -
     id: marco-cedaro
     description: >
       Webmaster before it was cool. Pixel pusher, javascript-something, conference organiser, father of two, but mostly known for yelling at clouds. Tech Lead at Condé Nast International.

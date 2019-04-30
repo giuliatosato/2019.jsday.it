@@ -14,7 +14,9 @@ Please check page contents in the _includes folder.
         <div class="section-title">Talks</div>
         <div>
             {% for talk in site.data.talks.list %}
-                {% include talks/talk.html talk=talk %}
+                {% if talk.schedule_only != true %}
+                    {% include talks/talk.html talk=talk %}
+                {% endif %}
             {% endfor %}
         </div>
     </div>
