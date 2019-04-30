@@ -39,6 +39,9 @@ silver:
     - url: https://www.alwaysdata.com/en/?utm_source=jsday
       image: alwaysdata.svg
     -
+      url: https://atoms.studio/?utm_source=jsday
+      image: atoms.svg
+    -
       url: https://balsamiq.com/?utm_source=jsday
       image: balsamiq.svg
     -
