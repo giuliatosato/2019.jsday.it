@@ -28,8 +28,8 @@ platinum:
 gold:
   list:
     -
-      url: https://www.ideato.it/?utm_source=jsday
-      image: ideato.svg
+      url: https://www.flowing.it/?utm_source=jsday
+      image: flowing.svg
     -
       url: http://www.uala.it/
       image: uala.svg
