@@ -127,14 +127,6 @@ list:
     last_name: Gallo
     twitter: _maxgallo
   -
-    id: patrycjusz-szydlo
-    description: >
-      Committed and responsible software developer, with more than a decade of experience building pixel perfect web apps, designing, implementing and adapting technically sophisticated single page applications. At daily basis focused on helping agile teams with UI development for large scale single page applications. Flexible in working environments having positioned for startups, software houses, and fortune 500 companies. Also father, lawyer, tenis player and running fanatic.
-    image: patrycjusz-szydlo.jpg
-    first_name: Patrycjusz
-    last_name: Szydło
-    twitter:
-  -
     id: diego-rodriguez
     description: >
       Senior Backend Developer @ Inalambria. WebTorrent Core Member. Node.js Advocate.
